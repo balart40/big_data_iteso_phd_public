@@ -14,8 +14,10 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
  * Author: Francisco Eduardo Balart Sanchez <balart40@hotmail.com> 
+ * This is a extended documentation of the original file manet-2015.cc provided
+ * by Author: Mathieu Lacage <mathieu.lacage@sophia.inria.fr>
+ * At: http://www.uio.no/studier/emner/matnat/ifi/INF5090/h15/timeplan/handouts/
  */
-
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
 #include "ns3/applications-module.h"
