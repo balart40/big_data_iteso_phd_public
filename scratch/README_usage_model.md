@@ -1,6 +1,6 @@
 Author: Francisco Eduardo Balart Sanchez <balart40@hotmail.com> <ng711690@iteso.mx>
 
-Collaborator(s): Dr. Luis Preciafdo
+Collaborator(s): Dr. Luis Preciado
 
 To run with visualizer put the following files in your YOURPATH/ns/ns-allinone-3.25/ns-3.25/scratch/ directory
 note that for this example we are using ns3.25
