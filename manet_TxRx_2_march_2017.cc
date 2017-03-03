@@ -95,17 +95,20 @@ std::vector<neighbor> checkAddNeighbor(int nodeId, std::vector<neighbor> neighbo
 return neighborsOfNodeId;
 }
 
-void TotalEnergy (std::string context, double oldValue, double totalEnergy)
-{
-    NS_LOG_UNCOND ("%INFO TimeStamp"<<Simulator::Now ().GetSeconds ()<<" segs Total energy consumed by node = "<<context<<" "<<totalEnergy<< "Joules");
-}
-
 //remainingEnergy 
 void RemainingEnergyTrace (std::string context, double oldValue, double remainingEnergy)
 {
 
   NS_LOG_UNCOND ("%INFO: TimeStamp: "<<Simulator::Now ().GetSeconds ()<<" segs Node: "<<context<<" Current Remaining energy = "<<remainingEnergy<< " Joules");        
 }
+
+// Total energy
+void TotalEnergy (std::string context, double oldValue, double totalEnergy)
+{
+    NS_LOG_UNCOND ("%INFO TimeStamp: "<<Simulator::Now ().GetSeconds ()<<" segs Total energy consumed Node: "<<context<<" "<<totalEnergy<< " Joules");
+}
+
+
 
 std::vector<neighbor> decrementUpdateTimeNeighbors(std::vector<neighbor> nodeIdNeighborsvector)
 {
@@ -399,22 +402,24 @@ int main (int argc, char *argv[])
   DeviceEnergyModelContainer deviceModels = radioEnergyHelper.Install (devices, sources);
 
   NS_LOG_UNCOND ("%INFO: Assign Mac48Address Addresses & Generating Traffic hello world broadcast");
+  int nodeIndexx = 0;
   for (uint32_t i = 0; i < nDevices; ++i)
   {
-    Ptr<WifiNetDevice> wifiNetDevicePointer = DynamicCast<WifiNetDevice> (devices.Get (i)); 
+    Ptr<WifiNetDevice> wifiNetDevicePointer = DynamicCast<WifiNetDevice> (devices.Get (nodeIndexx)); 
     wifiNetDevicePointer->SetAddress(Mac48Address::Allocate ());  
-    devices.Get(i)->SetReceiveCallback(MakeCallback(&ReceivePacket));
+    devices.Get(nodeIndexx)->SetReceiveCallback(MakeCallback(&ReceivePacket));
     //wifiNetDevicePointer->GetPhy()->TraceConnectWithoutContext ("MonitorSnifferRx", MakeCallback (&ReceivePacketWithRss));
+    Ptr<BasicEnergySource> basicSourcePtr = DynamicCast<BasicEnergySource> (sources.Get (nodeIndexx));
+    basicSourcePtr->TraceConnect ("RemainingEnergy",PrintID(sources.Get(nodeIndexx)->GetNode()), MakeCallback (&RemainingEnergyTrace)); 
+    // Here te basicRadioModelPtr already is pointing to the ith device so we will want to get the radiomodelattached to it
+    // in this case we only have attached one so that why the 0 if we had attached more we could put 1...n
+    Ptr<DeviceEnergyModel> basicRadioModelPtr = basicSourcePtr->FindDeviceEnergyModels ("ns3::WifiRadioEnergyModel").Get (0);
+    NS_ASSERT (basicRadioModelPtr != NULL);
+    basicRadioModelPtr->TraceConnect ("TotalEnergyConsumption",PrintID(sources.Get(nodeIndexx)->GetNode()), MakeCallback (&TotalEnergy));
     // This is temporal since at end Nodes will have its own broadcast function below can lead to dead lock, need to see Mutual Exlusion features
     double r =1.0+ ((double) rand() / (RAND_MAX));
     Simulator::ScheduleWithContext (wifiNetDevicePointer->GetNode ()->GetId (),Seconds (r), &GenerateHelloBroadcast, wifiNetDevicePointer, packetSize, interPacketInterval, numPackets);
-    Ptr<BasicEnergySource> basicSourcePtr = DynamicCast<BasicEnergySource> (sources.Get (i));
-    basicSourcePtr->TraceConnect ("RemainingEnergy",PrintID(sources.Get(i)->GetNode()), MakeCallback (&RemainingEnergyTrace)); 
-    Ptr<DeviceEnergyModel> basicRadioModelPtr = basicSourcePtr->FindDeviceEnergyModels ("ns3::WifiRadioEnergyModel").Get (i);
-    NS_ASSERT (basicSourcePtr != NULL);
-    basicSourcePtr->TraceConnect ("TotalEnergyConsumption",PrintID(sources.Get(i)->GetNode()), MakeCallback (&TotalEnergy));
-    //sources.Get (i)->TraceConnectWithoutContext("RemainingEnergy", MakeCallback (&RemainingEnergyTrace<nDevicesIt[i]>));
-    //basicSourcePtr->TraceConnectWithoutContext("RemainingEnergy", MakeCallback (&RemainingEnergyTrace)); 
+    nodeIndexx++;
   }
 
   // enable packet capture tracing and xml
