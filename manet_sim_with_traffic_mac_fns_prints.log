@@ -1,0 +1,2286 @@
+%INFO: Entered to GetTypeID function of ESSOA MAC CLASS
+%INFO: Starting Test now...
+%INFO: Creating Nodes...
+%INFO: Size of vector of vectors 3
+%INFO: Configuring PHY Loss model and connecting to PHY...
+%INFO: Configuring PHY Loss model...
+%INFO: Connecting PHY with Channel...
+%INFO: Configuring PHY STD and RSM...
+%INFO: Configuring MAC...
+%INFO: Entered to EssoaWifiMac constructor function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetLinkUpCallback function of ESSOA MAC CLASS
+%INFO: Entered to EssoaWifiMac constructor function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetLinkUpCallback function of ESSOA MAC CLASS
+%INFO: Entered to EssoaWifiMac constructor function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetLinkUpCallback function of ESSOA MAC CLASS
+%INFO: configuring mobility...
+%INFO: configuring Energy...
+%INFO: Assign Mac48Address Addresses & Generating Traffic hello world broadcast
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: TimeStamp: 1 segs Node: ID: 0   Current Remaining energy = 4.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 1   Current Remaining energy = 4.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 2   Current Remaining energy = 4.181 Joules
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 10 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 0 neighbor(s)
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 10 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 0 neighbor(s)
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 10 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 0 neighbor(s)
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: TimeStamp: 2 segs Node: ID: 0   Current Remaining energy = 3.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 1   Current Remaining energy = 3.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 2   Current Remaining energy = 3.362 Joules
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 9 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 0 neighbor(s)
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 9 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 0 neighbor(s)
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 9 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 0 neighbor(s)
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+%INFO: TimeStamp: 3 segs Node: ID: 0   Current Remaining energy = 2.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 1   Current Remaining energy = 2.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 2   Current Remaining energy = 2.543 Joules
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 8 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 8 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 8 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+%INFO: TimeStamp: 4 segs Node: ID: 0   Current Remaining energy = 1.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 1   Current Remaining energy = 1.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 2   Current Remaining energy = 1.724 Joules
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 7 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 7 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 7 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+%INFO: TimeStamp: 5 segs Node: ID: 0   Current Remaining energy = 0.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 1   Current Remaining energy = 0.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 2   Current Remaining energy = 0.905 Joules
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 6 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 6 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 6 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Neighbor Node id: 1 timeremaining: 3
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+%INFO: TimeStamp: 6 segs Node: ID: 0   Current Remaining energy = 0.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 1   Current Remaining energy = 0.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 2   Current Remaining energy = 0.086 Joules
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 5 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 5 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 5 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+%INFO: TimeStamp: 7 segs Node: ID: 0   Current Remaining energy = 0 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 1   Current Remaining energy = 0 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 2   Current Remaining energy = 0 Joules
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 4 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 4 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 4 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 3 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 3 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 3 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 2 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 2 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 2 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 1 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 2
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 1 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 1
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 0 timeremaining: 3
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Start of Recursive broadcast traffic 1 PACKETS REMAINING
+%INFO: Sending Broadcast packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic Broadcast call done
+%INFO: Decrementing timers
+*******************************************************************************************************************
+%INFO: Node Id: 0
+%INFO: Printing 2 neighbor(s)
+%INFO: Neighbor Node id: 2 timeremaining: 3
+%INFO: Neighbor Node id: 1 timeremaining: 3
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 1
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback of BROADCAST REQUEST ANSWER with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 2
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 0
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 1
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 1
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+*******************************************************************************************************************
+%INFO: Tx Packet Info, Source Node Id: 0
+%INFO: Tx Packet Info, Destination Node Id: 2
+%INFO: Tx Packet Info, Sent Unique ID: 2
+%INFO: Tx Packet Info, Rx Unique ID: 0
+%INFO: sending packet response due to callback RESPONSE TO RESPONSE of BROADCAST NON REQUEST RESP with protocol: 1
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 2 my MAC is: 02-06-00:00:00:00:00:06
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:06
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:04 to node Id: 0
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 0 my MAC: 02-06-00:00:00:00:00:04 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 1 my MAC is: 02-06-00:00:00:00:00:05
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:05
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:05 to node Id: 1
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 1 my MAC: 02-06-00:00:00:00:00:05 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+*******************************************************************************************************************
+%INFO: Sending packet! I am node 0 my MAC is: 02-06-00:00:00:00:00:04
+%INFO: source address: 02-06-00:00:00:00:00:06 to node Id: 2
+%INFO: Entered to Enqueue function of ESSOA MAC CLASS
+%INFO: Packet sent Generate traffic call done
+%INFO: Entered to Receive function of ESSOA MAC CLASS
+*******************************************************************************************************************
+%INFO: Rx packet for Node: 2 my MAC: 02-06-00:00:00:00:00:06 RX packet from MAC: 02-06-00:00:00:00:00:04
+%INFO: DO NOTHING
+%INFO: Entered to EssoaWifiMac destructor function of ESSOA MAC CLASS
+%INFO: Entered to EssoaWifiMac destructor function of ESSOA MAC CLASS
+%INFO: Entered to EssoaWifiMac destructor function of ESSOA MAC CLASS

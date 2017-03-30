@@ -1,0 +1,48 @@
+%INFO: Entered to GetTypeID function of ESSOA MAC CLASS
+%INFO: Starting Test now...
+%INFO: Creating Nodes...
+%INFO: Size of vector of vectors 3
+%INFO: Configuring PHY Loss model and connecting to PHY...
+%INFO: Configuring PHY Loss model...
+%INFO: Connecting PHY with Channel...
+%INFO: Configuring PHY STD and RSM...
+%INFO: Configuring MAC...
+%INFO: Entered to EssoaWifiMac constructor function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetLinkUpCallback function of ESSOA MAC CLASS
+%INFO: Entered to EssoaWifiMac constructor function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetLinkUpCallback function of ESSOA MAC CLASS
+%INFO: Entered to EssoaWifiMac constructor function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetLinkUpCallback function of ESSOA MAC CLASS
+%INFO: configuring mobility...
+%INFO: configuring Energy...
+%INFO: Assign Mac48Address Addresses & Generating Traffic hello world broadcast
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: Entered to SetAddress function of ESSOA MAC CLASS
+%INFO: TimeStamp: 1 segs Node: ID: 0   Current Remaining energy = 4.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 1   Current Remaining energy = 4.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 2   Current Remaining energy = 4.181 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 0   Current Remaining energy = 3.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 1   Current Remaining energy = 3.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 2   Current Remaining energy = 3.362 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 0   Current Remaining energy = 2.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 1   Current Remaining energy = 2.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 2   Current Remaining energy = 2.543 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 0   Current Remaining energy = 1.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 1   Current Remaining energy = 1.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 2   Current Remaining energy = 1.724 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 0   Current Remaining energy = 0.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 1   Current Remaining energy = 0.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 2   Current Remaining energy = 0.905 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 0   Current Remaining energy = 0.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 1   Current Remaining energy = 0.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 2   Current Remaining energy = 0.086 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 0   Current Remaining energy = 0 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 1   Current Remaining energy = 0 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 2   Current Remaining energy = 0 Joules
+%INFO: Entered to EssoaWifiMac destructor function of ESSOA MAC CLASS
+%INFO: Entered to EssoaWifiMac destructor function of ESSOA MAC CLASS
+%INFO: Entered to EssoaWifiMac destructor function of ESSOA MAC CLASS
