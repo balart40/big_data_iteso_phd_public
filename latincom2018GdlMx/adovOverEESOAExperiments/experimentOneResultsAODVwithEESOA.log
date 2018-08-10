@@ -1,0 +1,3481 @@
+%INFO: Creating Nodes...
+%INFO: Creating Devices...
+%INFO: configuring Energy...
+%INFO: Installing internet stack...
+%INFO: Install Applications...
+%INFO: Node 7 ping Node 96
+%INFO: Node 12 ping Node 34
+%INFO: Node 26 ping Node 34
+%INFO: Node 33 ping Node 13
+%INFO: Node 37 ping Node 64
+%INFO: Node 44 ping Node 68
+%INFO: Node 62 ping Node 6
+%INFO: Node 64 ping Node 5
+%INFO: Node 69 ping Node 32
+%INFO: Node 99 ping Node 79
+%INFO: TimeStamp: 1 segs Node: ID: 0   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 1   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 2   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 3   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 4   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 5   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 6   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 7   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 8   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 9   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 10   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 11   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 12   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 13   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 14   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 15   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 16   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 17   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 18   Current Remaining energy = 99.181 Joules
+%INFO: TOTALTEMPENERGYFRACTION 19.8362
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 1 segs Node: ID: 19   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 20   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 21   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 22   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 23   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 24   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 25   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 26   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 27   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 28   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 29   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 30   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 31   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 32   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 33   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 34   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 35   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 36   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 37   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 38   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 39   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 40   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 41   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 42   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 43   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 44   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 45   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 46   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 47   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 48   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 49   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 50   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 51   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 52   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 53   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 54   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 55   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 56   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 57   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 58   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 59   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 60   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 61   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 62   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 63   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 64   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 65   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 66   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 67   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 68   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 69   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 70   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 71   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 72   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 73   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 74   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 75   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 76   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 77   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 78   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 79   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 80   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 81   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 82   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 83   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 84   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 85   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 86   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 87   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 88   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 89   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 90   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 91   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 92   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 93   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 94   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 95   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 96   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 97   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 98   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 1 segs Node: ID: 99   Current Remaining energy = 99.181 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 0   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 1   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 2   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 3   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 4   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 5   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 6   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 7   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 8   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 9   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 10   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 11   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 12   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 13   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 14   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 15   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 16   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 17   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 18   Current Remaining energy = 98.362 Joules
+%INFO: TOTALTEMPENERGYFRACTION 99.0172
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 2 segs Node: ID: 19   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 20   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 21   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 22   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 23   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 24   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 25   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 26   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 27   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 28   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 29   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 30   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 31   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 32   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 33   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 34   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 35   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 36   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 37   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 38   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 39   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 40   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 41   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 42   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 43   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 44   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 45   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 46   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 47   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 48   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 49   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 50   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 51   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 52   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 53   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 54   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 55   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 56   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 57   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 58   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 59   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 60   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 61   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 62   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 63   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 64   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 65   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 66   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 67   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 68   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 69   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 70   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 71   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 72   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 73   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 74   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 75   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 76   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 77   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 78   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 79   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 80   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 81   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 82   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 83   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 84   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 85   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 86   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 87   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 88   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 89   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 90   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 91   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 92   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 93   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 94   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 95   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 96   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 97   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 98   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 2 segs Node: ID: 99   Current Remaining energy = 98.362 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 0   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 1   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 2   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 3   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 4   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 5   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 6   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 7   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 8   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 9   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 10   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 11   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 12   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 13   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 14   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 15   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 16   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 17   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 18   Current Remaining energy = 97.543 Joules
+%INFO: TOTALTEMPENERGYFRACTION 98.1982
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 3 segs Node: ID: 19   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 20   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 21   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 22   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 23   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 24   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 25   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 26   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 27   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 28   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 29   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 30   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 31   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 32   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 33   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 34   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 35   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 36   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 37   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 38   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 39   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 40   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 41   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 42   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 43   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 44   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 45   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 46   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 47   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 48   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 49   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 50   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 51   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 52   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 53   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 54   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 55   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 56   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 57   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 58   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 59   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 60   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 61   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 62   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 63   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 64   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 65   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 66   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 67   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 68   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 69   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 70   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 71   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 72   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 73   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 74   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 75   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 76   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 77   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 78   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 79   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 80   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 81   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 82   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 83   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 84   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 85   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 86   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 87   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 88   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 89   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 90   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 91   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 92   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 93   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 94   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 95   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 96   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 97   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 98   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 3 segs Node: ID: 99   Current Remaining energy = 97.543 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 0   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 1   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 2   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 3   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 4   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 5   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 6   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 7   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 8   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 9   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 10   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 11   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 12   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 13   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 14   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 15   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 16   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 17   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 18   Current Remaining energy = 96.724 Joules
+%INFO: TOTALTEMPENERGYFRACTION 97.3792
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 4 segs Node: ID: 19   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 20   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 21   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 22   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 23   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 24   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 25   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 26   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 27   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 28   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 29   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 30   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 31   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 32   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 33   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 34   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 35   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 36   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 37   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 38   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 39   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 40   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 41   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 42   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 43   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 44   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 45   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 46   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 47   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 48   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 49   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 50   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 51   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 52   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 53   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 54   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 55   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 56   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 57   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 58   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 59   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 60   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 61   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 62   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 63   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 64   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 65   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 66   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 67   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 68   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 69   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 70   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 71   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 72   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 73   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 74   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 75   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 76   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 77   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 78   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 79   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 80   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 81   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 82   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 83   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 84   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 85   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 86   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 87   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 88   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 89   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 90   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 91   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 92   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 93   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 94   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 95   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 96   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 97   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 98   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 4 segs Node: ID: 99   Current Remaining energy = 96.724 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 0   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 1   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 2   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 3   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 4   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 5   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 6   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 7   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 8   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 9   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 10   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 11   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 12   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 13   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 14   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 15   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 16   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 17   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 18   Current Remaining energy = 95.905 Joules
+%INFO: TOTALTEMPENERGYFRACTION 96.5602
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 5 segs Node: ID: 19   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 20   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 21   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 22   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 23   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 24   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 25   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 26   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 27   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 28   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 29   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 30   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 31   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 32   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 33   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 34   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 35   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 36   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 37   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 38   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 39   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 40   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 41   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 42   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 43   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 44   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 45   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 46   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 47   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 48   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 49   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 50   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 51   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 52   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 53   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 54   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 55   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 56   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 57   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 58   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 59   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 60   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 61   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 62   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 63   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 64   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 65   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 66   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 67   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 68   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 69   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 70   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 71   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 72   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 73   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 74   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 75   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 76   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 77   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 78   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 79   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 80   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 81   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 82   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 83   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 84   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 85   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 86   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 87   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 88   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 89   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 90   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 91   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 92   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 93   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 94   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 95   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 96   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 97   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 98   Current Remaining energy = 95.905 Joules
+%INFO: TimeStamp: 5 segs Node: ID: 99   Current Remaining energy = 95.905 Joules
+5.07314: Node ID: 64  Start sending packet
+5.07344: Node ID: 50  Start sending packet
+5.07344: Node ID: 63  Start sending packet
+5.07375: Node ID: 21  Start sending packet
+5.07375: Node ID: 30  Start sending packet
+5.0747: Node ID: 95  Start sending packet
+5.07539: Node ID: 40  Start sending packet
+5.07539: Node ID: 29  Start sending packet
+5.0757: Node ID: 31  Start sending packet
+5.0757: Node ID: 75  Start sending packet
+5.07632: Node ID: 26  Start sending packet
+5.07665: Node ID: 88  Start sending packet
+5.07665: Node ID: 52  Start sending packet
+5.0767: Node ID: 44  Start sending packet
+5.07696: Node ID: 97  Start sending packet
+5.07696: Node ID: 84  Start sending packet
+5.07726: Node ID: 3  Start sending packet
+5.07726: Node ID: 28  Start sending packet
+5.07748: Node ID: 22  Start sending packet
+5.07765: Node ID: 57  Start sending packet
+5.07781: Node ID: 43  Start sending packet
+5.07796: Node ID: 38  Start sending packet
+5.07821: Node ID: 87  Start sending packet
+5.07826: Node ID: 48  Start sending packet
+5.07839: Node ID: 80  Start sending packet
+5.07839: Node ID: 77  Start sending packet
+5.07839: Node ID: 1  Start sending packet
+5.07839: Node ID: 41  Start sending packet
+5.07852: Node ID: 65  Start sending packet
+5.07865: Node ID: 32  Start sending packet
+5.07901: Node ID: 20  Start sending packet
+5.07904: Node ID: 13  Start sending packet
+5.07921: Node ID: 34  Start sending packet
+5.07921: Node ID: 74  Start sending packet
+5.07921: Node ID: 36  Start sending packet
+5.07934: Node ID: 79  Start sending packet
+5.07934: Node ID: 86  Start sending packet
+5.0794: Node ID: 10  Start sending packet
+5.07947: Node ID: 25  Start sending packet
+5.07947: Node ID: 5  Start sending packet
+5.07977: Node ID: 4  Start sending packet
+5.07996: Node ID: 54  Start sending packet
+5.07996: Node ID: 92  Start sending packet
+5.08008: Node ID: 98  Start sending packet
+5.08036: Node ID: 42  Start sending packet
+5.08039: Node ID: 51  Start sending packet
+5.08039: Node ID: 99  Start sending packet
+5.08058: Node ID: 11  Start sending packet
+5.08072: Node ID: 18  Start sending packet
+5.08077: Node ID: 35  Start sending packet
+5.08096: Node ID: 70  Start sending packet
+5.0811: Node ID: 53  Start sending packet
+5.08118: Node ID: 72  Start sending packet
+5.08121: Node ID: 78  Start sending packet
+5.08126: Node ID: 59  Start sending packet
+5.08149: Node ID: 0  Start sending packet
+5.08152: Node ID: 55  Start sending packet
+5.0817: Node ID: 61  Start sending packet
+5.08173: Node ID: 62  Start sending packet
+5.08191: Node ID: 27  Start sending packet
+5.08201: Node ID: 68  Start sending packet
+5.08201: Node ID: 76  Start sending packet
+5.08201: Node ID: 17  Start sending packet
+5.08211: Node ID: 81  Start sending packet
+5.08247: Node ID: 58  Start sending packet
+5.08247: Node ID: 56  Start sending packet
+5.08249: Node ID: 67  Start sending packet
+5.08263: Node ID: 12  Start sending packet
+5.08265: Node ID: 71  Start sending packet
+5.0829: Node ID: 91  Start sending packet
+5.08321: Node ID: 15  Start sending packet
+5.08329: Node ID: 85  Start sending packet
+5.08339: Node ID: 46  Start sending packet
+5.08347: Node ID: 90  Start sending packet
+5.08363: Node ID: 6  Start sending packet
+5.08377: Node ID: 60  Start sending packet
+5.08391: Node ID: 19  Start sending packet
+5.08421: Node ID: 73  Start sending packet
+5.08465: Node ID: 83  Start sending packet
+5.08477: Node ID: 14  Start sending packet
+5.08496: Node ID: 93  Start sending packet
+5.08496: Node ID: 24  Start sending packet
+5.08526: Node ID: 23  Start sending packet
+5.08558: Node ID: 96  Start sending packet
+5.08565: Node ID: 69  Start sending packet
+5.08583: Node ID: 66  Start sending packet
+5.08621: Node ID: 82  Start sending packet
+5.08677: Node ID: 89  Start sending packet
+5.08721: Node ID: 7  Start sending packet
+5.08721: Node ID: 39  Start sending packet
+5.08772: Node ID: 2  Start sending packet
+5.08772: Node ID: 45  Start sending packet
+5.08777: Node ID: 33  Start sending packet
+5.08791: Node ID: 8  Start sending packet
+5.08821: Node ID: 9  Start sending packet
+5.08821: Node ID: 16  Start sending packet
+5.08847: Node ID: 49  Start sending packet
+5.08847: Node ID: 47  Start sending packet
+5.08893: Node ID: 94  Start sending packet
+5.09147: Node ID: 37  Start sending packet
+5.21198: Node ID: 12  Start sending packet
+5.21324: Node ID: 30  Start sending packet
+5.21324: Node ID: 48  Start sending packet
+5.21424: Node ID: 75  Start sending packet
+5.21424: Node ID: 11  Start sending packet
+5.21449: Node ID: 24  Start sending packet
+5.21454: Node ID: 43  Start sending packet
+5.21485: Node ID: 10  Start sending packet
+5.21499: Node ID: 63  Start sending packet
+5.21536: Node ID: 59  Start sending packet
+5.21549: Node ID: 84  Start sending packet
+5.2158: Node ID: 73  Start sending packet
+5.21584: Node ID: 61  Start sending packet
+5.21625: Node ID: 51  Start sending packet
+5.21625: Node ID: 80  Start sending packet
+5.21649: Node ID: 9  Start sending packet
+5.21675: Node ID: 55  Start sending packet
+5.21724: Node ID: 68  Start sending packet
+5.21741: Node ID: 50  Start sending packet
+5.21749: Node ID: 54  Start sending packet
+5.21775: Node ID: 60  Start sending packet
+5.21806: Node ID: 66  Start sending packet
+5.21806: Node ID: 47  Start sending packet
+5.21806: Node ID: 56  Start sending packet
+5.21811: Node ID: 29  Start sending packet
+5.21824: Node ID: 76  Start sending packet
+5.21824: Node ID: 7  Start sending packet
+5.21841: Node ID: 8  Start sending packet
+5.21849: Node ID: 46  Start sending packet
+5.21861: Node ID: 62  Start sending packet
+5.21875: Node ID: 16  Start sending packet
+5.21875: Node ID: 74  Start sending packet
+5.21911: Node ID: 20  Start sending packet
+5.21911: Node ID: 83  Start sending packet
+5.21924: Node ID: 26  Start sending packet
+5.21949: Node ID: 34  Start sending packet
+5.21949: Node ID: 77  Start sending packet
+5.21975: Node ID: 90  Start sending packet
+5.21978: Node ID: 48  Start sending packet
+5.21993: Node ID: 44  Start sending packet
+5.22003: Node ID: 34  Start sending packet
+5.22011: Node ID: 71  Start sending packet
+5.22036: Node ID: 27  Start sending packet
+5.22049: Node ID: 44  Start sending packet
+5.22049: Node ID: 3  Start sending packet
+5.22049: Node ID: 95  Start sending packet
+5.22049: Node ID: 70  Start sending packet
+5.22066: Node ID: 40  Start sending packet
+5.2208: Node ID: 28  Start sending packet
+5.2208: Node ID: 97  Start sending packet
+5.22106: Node ID: 37  Start sending packet
+5.22111: Node ID: 53  Start sending packet
+5.22111: Node ID: 41  Start sending packet
+5.22111: Node ID: 1  Start sending packet
+5.22121: Node ID: 34  Start sending packet
+5.22124: Node ID: 17  Start sending packet
+5.22124: Node ID: 31  Start sending packet
+5.22136: Node ID: 5  Start sending packet
+5.22173: Node ID: 21  Start sending packet
+5.22175: Node ID: 36  Start sending packet
+5.22206: Node ID: 78  Start sending packet
+5.22211: Node ID: 52  Start sending packet
+5.22212: Node ID: 61  Start sending packet
+5.22216: Node ID: 38  Start sending packet
+5.22225: Node ID: 64  Start sending packet
+5.22236: Node ID: 14  Start sending packet
+5.22249: Node ID: 67  Start sending packet
+5.2228: Node ID: 81  Start sending packet
+5.22283: Node ID: 34  Start sending packet
+5.22302: Node ID: 6  Start sending packet
+5.22309: Node ID: 48  Start sending packet
+5.22336: Node ID: 69  Start sending packet
+5.22347: Node ID: 91  Start sending packet
+5.22349: Node ID: 82  Start sending packet
+5.22349: Node ID: 15  Start sending packet
+5.22375: Node ID: 23  Start sending packet
+5.22377: Node ID: 41  Start sending packet
+5.22396: Node ID: 96  Start sending packet
+5.22408: Node ID: 52  Start sending packet
+5.22419: Node ID: 22  Start sending packet
+5.22436: Node ID: 93  Start sending packet
+5.22438: Node ID: 30  Start sending packet
+5.22467: Node ID: 79  Start sending packet
+5.22468: Node ID: 48  Start sending packet
+5.22475: Node ID: 39  Start sending packet
+5.22478: Node ID: 81  Start sending packet
+5.22503: Node ID: 80  Start sending packet
+5.22511: Node ID: 32  Start sending packet
+5.22511: Node ID: 88  Start sending packet
+5.22511: Node ID: 89  Start sending packet
+5.22519: Node ID: 59  Start sending packet
+5.22519: Node ID: 11  Start sending packet
+5.22531: Node ID: 18  Start sending packet
+5.22558: Node ID: 43  Start sending packet
+5.22559: Node ID: 72  Start sending packet
+5.22562: Node ID: 58  Start sending packet
+5.22581: Node ID: 68  Start sending packet
+5.22581: Node ID: 76  Start sending packet
+5.22583: Node ID: 99  Start sending packet
+5.22585: Node ID: 19  Start sending packet
+5.22603: Node ID: 65  Start sending packet
+5.22604: Node ID: 21  Start sending packet
+5.22633: Node ID: 8  Start sending packet
+5.22634: Node ID: 35  Start sending packet
+5.22634: Node ID: 25  Start sending packet
+5.22642: Node ID: 71  Start sending packet
+5.22645: Node ID: 91  Start sending packet
+5.22675: Node ID: 97  Start sending packet
+5.22675: Node ID: 70  Start sending packet
+5.22695: Node ID: 53  Start sending packet
+5.22698: Node ID: 0  Start sending packet
+5.22703: Node ID: 51  Start sending packet
+5.22706: Node ID: 55  Start sending packet
+5.22731: Node ID: 4  Start sending packet
+5.22736: Node ID: 13  Start sending packet
+5.22737: Node ID: 60  Start sending packet
+5.22737: Node ID: 67  Start sending packet
+5.22762: Node ID: 33  Start sending packet
+5.22762: Node ID: 35  Start sending packet
+5.22765: Node ID: 29  Start sending packet
+5.2277: Node ID: 22  Start sending packet
+5.22772: Node ID: 24  Start sending packet
+5.22794: Node ID: 82  Start sending packet
+5.22803: Node ID: 39  Start sending packet
+5.22803: Node ID: 99  Start sending packet
+5.22819: Node ID: 63  Start sending packet
+5.22824: Node ID: 0  Start sending packet
+5.22833: Node ID: 56  Start sending packet
+5.22849: Node ID: 10  Start sending packet
+5.22852: Node ID: 42  Start sending packet
+5.22857: Node ID: 57  Start sending packet
+5.22858: Node ID: 25  Start sending packet
+5.22862: Node ID: 92  Start sending packet
+5.22863: Node ID: 75  Start sending packet
+5.22864: Node ID: 66  Start sending packet
+5.22901: Node ID: 84  Start sending packet
+5.22915: Node ID: 62  Start sending packet
+5.22928: Node ID: 40  Start sending packet
+5.22929: Node ID: 92  Start sending packet
+5.2293: Node ID: 20  Start sending packet
+5.22938: Node ID: 31  Start sending packet
+5.22947: Node ID: 87  Start sending packet
+5.2296: Node ID: 45  Start sending packet
+5.22972: Node ID: 54  Start sending packet
+5.22982: Node ID: 87  Start sending packet
+5.22994: Node ID: 15  Start sending packet
+5.23003: Node ID: 73  Start sending packet
+5.23018: Node ID: 17  Start sending packet
+5.23022: Node ID: 65  Start sending packet
+5.23028: Node ID: 42  Start sending packet
+5.23062: Node ID: 85  Start sending packet
+5.23067: Node ID: 6  Start sending packet
+5.23103: Node ID: 5  Start sending packet
+5.23137: Node ID: 95  Start sending packet
+5.23157: Node ID: 45  Start sending packet
+5.23162: Node ID: 86  Start sending packet
+5.23162: Node ID: 16  Start sending packet
+5.23172: Node ID: 1  Start sending packet
+5.23189: Node ID: 49  Start sending packet
+5.23194: Node ID: 38  Start sending packet
+5.23194: Node ID: 96  Start sending packet
+5.23201: Node ID: 78  Start sending packet
+5.23201: Node ID: 74  Start sending packet
+5.23221: Node ID: 93  Start sending packet
+5.23249: Node ID: 58  Start sending packet
+5.23285: Node ID: 98  Start sending packet
+5.23294: Node ID: 7  Start sending packet
+5.23294: Node ID: 9  Start sending packet
+5.23294: Node ID: 34  Start sending packet
+5.23301: Node ID: 23  Start sending packet
+5.23303: Node ID: 64  Start sending packet
+5.23303: Node ID: 72  Start sending packet
+5.2332: Node ID: 18  Start sending packet
+5.23332: Node ID: 37  Start sending packet
+5.23333: Node ID: 32  Start sending packet
+5.23333: Node ID: 57  Start sending packet
+5.23334: Node ID: 89  Start sending packet
+5.23355: Node ID: 94  Start sending packet
+5.23363: Node ID: 12  Start sending packet
+5.23396: Node ID: 48  Start sending packet
+5.23403: Node ID: 77  Start sending packet
+5.23407: Node ID: 49  Start sending packet
+5.23427: Node ID: 3  Start sending packet
+5.23433: Node ID: 12  Start sending packet
+5.23433: Node ID: 88  Start sending packet
+5.23433: Node ID: 50  Start sending packet
+5.23433: Node ID: 83  Start sending packet
+5.23466: Node ID: 2  Start sending packet
+5.23495: Node ID: 13  Start sending packet
+5.23501: Node ID: 26  Start sending packet
+5.23505: Node ID: 28  Start sending packet
+5.23526: Node ID: 19  Start sending packet
+5.23529: Node ID: 14  Start sending packet
+5.23529: Node ID: 33  Start sending packet
+5.23541: Node ID: 2  Start sending packet
+5.23619: Node ID: 94  Start sending packet
+5.23628: Node ID: 46  Start sending packet
+5.23632: Node ID: 90  Start sending packet
+5.23647: Node ID: 85  Start sending packet
+5.2365: Node ID: 12  Start sending packet
+5.23659: Node ID: 69  Start sending packet
+5.2366: Node ID: 4  Start sending packet
+5.23675: Node ID: 48  Start sending packet
+5.23692: Node ID: 98  Start sending packet
+5.23701: Node ID: 36  Start sending packet
+5.2371: Node ID: 48  Start sending packet
+5.23721: Node ID: 27  Start sending packet
+5.23721: Node ID: 79  Start sending packet
+5.23732: Node ID: 47  Start sending packet
+5.23736: Node ID: 12  Start sending packet
+5.23755: Node ID: 86  Start sending packet
+5.2378: Node ID: 12  Start sending packet
+5.23817: Node ID: 48  Start sending packet
+5.23842: Node ID: 12  Start sending packet
+5.23915: Node ID: 12  Start sending packet
+5.23958: Node ID: 48  Start sending packet
+5.24657: Node ID: 48  Start sending packet
+5.24686: Node ID: 34  Start sending packet
+5.24711: Node ID: 48  Start sending packet
+5.24801: Node ID: 48  Start sending packet
+5.24844: Node ID: 34  Start sending packet
+5.2488: Node ID: 34  Start sending packet
+5.24923: Node ID: 48  Start sending packet
+5.24962: Node ID: 48  Start sending packet
+5.25006: Node ID: 12  Start sending packet
+5.26408: Node ID: 99  Start sending packet
+5.26439: Node ID: 52  Start sending packet
+5.26439: Node ID: 71  Start sending packet
+5.26439: Node ID: 20  Start sending packet
+5.26439: Node ID: 64  Start sending packet
+5.26534: Node ID: 29  Start sending packet
+5.26634: Node ID: 53  Start sending packet
+5.26664: Node ID: 14  Start sending packet
+5.26695: Node ID: 33  Start sending packet
+5.26695: Node ID: 25  Start sending packet
+5.26725: Node ID: 86  Start sending packet
+5.26734: Node ID: 32  Start sending packet
+5.26734: Node ID: 1  Start sending packet
+5.26759: Node ID: 79  Start sending packet
+5.26764: Node ID: 50  Start sending packet
+5.26788: Node ID: 27  Start sending packet
+5.26788: Node ID: 53  Start sending packet
+5.2679: Node ID: 0  Start sending packet
+5.2679: Node ID: 58  Start sending packet
+5.2682: Node ID: 4  Start sending packet
+5.2685: Node ID: 69  Start sending packet
+5.26859: Node ID: 81  Start sending packet
+5.26859: Node ID: 91  Start sending packet
+5.2689: Node ID: 72  Start sending packet
+5.26934: Node ID: 8  Start sending packet
+5.26934: Node ID: 88  Start sending packet
+5.26934: Node ID: 22  Start sending packet
+5.26965: Node ID: 42  Start sending packet
+5.2699: Node ID: 49  Start sending packet
+5.27034: Node ID: 10  Start sending packet
+5.27034: Node ID: 57  Start sending packet
+5.27034: Node ID: 80  Start sending packet
+5.27048: Node ID: 70  Start sending packet
+5.27062: Node ID: 98  Start sending packet
+5.27064: Node ID: 63  Start sending packet
+5.27078: Node ID: 55  Start sending packet
+5.27078: Node ID: 3  Start sending packet
+5.27078: Node ID: 48  Start sending packet
+5.2709: Node ID: 5  Start sending packet
+5.27109: Node ID: 76  Start sending packet
+5.2712: Node ID: 45  Start sending packet
+5.2713: Node ID: 53  Start sending packet
+5.27134: Node ID: 51  Start sending packet
+5.27134: Node ID: 40  Start sending packet
+5.27151: Node ID: 85  Start sending packet
+5.27159: Node ID: 95  Start sending packet
+5.27196: Node ID: 46  Start sending packet
+5.27198: Node ID: 24  Start sending packet
+5.27209: Node ID: 53  Start sending packet
+5.27233: Node ID: 79  Start sending packet
+5.27234: Node ID: 41  Start sending packet
+5.27264: Node ID: 77  Start sending packet
+5.27269: Node ID: 79  Start sending packet
+5.27273: Node ID: 23  Start sending packet
+5.27285: Node ID: 83  Start sending packet
+5.27301: Node ID: 6  Start sending packet
+5.2732: Node ID: 94  Start sending packet
+5.27341: Node ID: 79  Start sending packet
+5.2735: Node ID: 84  Start sending packet
+5.27359: Node ID: 21  Start sending packet
+5.27359: Node ID: 61  Start sending packet
+5.27368: Node ID: 53  Start sending packet
+5.27404: Node ID: 56  Start sending packet
+5.27432: Node ID: 67  Start sending packet
+5.27459: Node ID: 19  Start sending packet
+5.27463: Node ID: 44  Start sending packet
+5.2749: Node ID: 65  Start sending packet
+5.2749: Node ID: 92  Start sending packet
+5.27504: Node ID: 47  Start sending packet
+5.2753: Node ID: 13  Start sending packet
+5.27546: Node ID: 78  Start sending packet
+5.27591: Node ID: 90  Start sending packet
+5.27634: Node ID: 75  Start sending packet
+5.27634: Node ID: 17  Start sending packet
+5.27659: Node ID: 93  Start sending packet
+5.27659: Node ID: 89  Start sending packet
+5.27685: Node ID: 54  Start sending packet
+5.2769: Node ID: 35  Start sending packet
+5.2772: Node ID: 2  Start sending packet
+5.2772: Node ID: 87  Start sending packet
+5.2772: Node ID: 18  Start sending packet
+5.27759: Node ID: 43  Start sending packet
+5.27759: Node ID: 59  Start sending packet
+5.27759: Node ID: 30  Start sending packet
+5.27773: Node ID: 73  Start sending packet
+5.27773: Node ID: 36  Start sending packet
+5.27804: Node ID: 16  Start sending packet
+5.27804: Node ID: 26  Start sending packet
+5.27829: Node ID: 62  Start sending packet
+5.27835: Node ID: 11  Start sending packet
+5.27835: Node ID: 66  Start sending packet
+5.2796: Node ID: 97  Start sending packet
+5.27973: Node ID: 39  Start sending packet
+5.27973: Node ID: 74  Start sending packet
+5.28035: Node ID: 38  Start sending packet
+5.28035: Node ID: 37  Start sending packet
+5.28035: Node ID: 60  Start sending packet
+5.28104: Node ID: 68  Start sending packet
+5.28104: Node ID: 12  Start sending packet
+5.28166: Node ID: 96  Start sending packet
+5.28166: Node ID: 31  Start sending packet
+5.28167: Node ID: 53  Start sending packet
+5.28176: Node ID: 28  Start sending packet
+5.28196: Node ID: 99  Start sending packet
+5.2822: Node ID: 53  Start sending packet
+5.28229: Node ID: 82  Start sending packet
+5.28308: Node ID: 53  Start sending packet
+5.28334: Node ID: 99  Start sending packet
+5.2836: Node ID: 7  Start sending packet
+5.28529: Node ID: 9  Start sending packet
+5.28629: Node ID: 34  Start sending packet
+5.28633: Node ID: 99  Start sending packet
+5.28662: Node ID: 53  Start sending packet
+5.28687: Node ID: 99  Start sending packet
+5.28727: Node ID: 99  Start sending packet
+5.2877: Node ID: 53  Start sending packet
+5.28829: Node ID: 15  Start sending packet
+5.29369: Node ID: 53  Start sending packet
+5.29398: Node ID: 79  Start sending packet
+5.29423: Node ID: 53  Start sending packet
+5.2951: Node ID: 53  Start sending packet
+5.29554: Node ID: 79  Start sending packet
+5.29589: Node ID: 79  Start sending packet
+5.29633: Node ID: 53  Start sending packet
+5.29676: Node ID: 53  Start sending packet
+5.2972: Node ID: 99  Start sending packet
+5.38582: Node ID: 26  Start sending packet
+5.38613: Node ID: 12  Start sending packet
+5.38613: Node ID: 48  Start sending packet
+5.38639: Node ID: 34  Start sending packet
+5.38708: Node ID: 6  Start sending packet
+5.38739: Node ID: 21  Start sending packet
+5.38808: Node ID: 68  Start sending packet
+5.38849: Node ID: 12  Start sending packet
+5.38864: Node ID: 81  Start sending packet
+5.38864: Node ID: 42  Start sending packet
+5.38875: Node ID: 48  Start sending packet
+5.38895: Node ID: 72  Start sending packet
+5.38895: Node ID: 71  Start sending packet
+5.3891: Node ID: 48  Start sending packet
+5.3891: Node ID: 11  Start sending packet
+5.38925: Node ID: 33  Start sending packet
+5.38937: Node ID: 34  Start sending packet
+5.38941: Node ID: 50  Start sending packet
+5.38947: Node ID: 59  Start sending packet
+5.38978: Node ID: 30  Start sending packet
+5.38978: Node ID: 38  Start sending packet
+5.38986: Node ID: 62  Start sending packet
+5.39008: Node ID: 31  Start sending packet
+5.39016: Node ID: 97  Start sending packet
+5.3902: Node ID: 53  Start sending packet
+5.39034: Node ID: 7  Start sending packet
+5.3904: Node ID: 76  Start sending packet
+5.39051: Node ID: 14  Start sending packet
+5.39051: Node ID: 19  Start sending packet
+5.39051: Node ID: 86  Start sending packet
+5.39051: Node ID: 58  Start sending packet
+5.39051: Node ID: 8  Start sending packet
+5.39065: Node ID: 95  Start sending packet
+5.3909: Node ID: 10  Start sending packet
+5.39102: Node ID: 96  Start sending packet
+5.39111: Node ID: 70  Start sending packet
+5.39118: Node ID: 51  Start sending packet
+5.39153: Node ID: 37  Start sending packet
+5.39159: Node ID: 22  Start sending packet
+5.39181: Node ID: 78  Start sending packet
+5.39182: Node ID: 61  Start sending packet
+5.3919: Node ID: 65  Start sending packet
+5.39204: Node ID: 3  Start sending packet
+5.39204: Node ID: 84  Start sending packet
+5.39206: Node ID: 37  Start sending packet
+5.39234: Node ID: 1  Start sending packet
+5.39234: Node ID: 77  Start sending packet
+5.3929: Node ID: 5  Start sending packet
+5.39298: Node ID: 37  Start sending packet
+5.393: Node ID: 41  Start sending packet
+5.3932: Node ID: 35  Start sending packet
+5.39341: Node ID: 78  Start sending packet
+5.39372: Node ID: 29  Start sending packet
+5.39408: Node ID: 12  Start sending packet
+5.39408: Node ID: 75  Start sending packet
+5.39408: Node ID: 48  Start sending packet
+5.3942: Node ID: 25  Start sending packet
+5.3942: Node ID: 13  Start sending packet
+5.39437: Node ID: 55  Start sending packet
+5.39439: Node ID: 44  Start sending packet
+5.39467: Node ID: 56  Start sending packet
+5.39477: Node ID: 45  Start sending packet
+5.39497: Node ID: 43  Start sending packet
+5.39504: Node ID: 34  Start sending packet
+5.39504: Node ID: 82  Start sending packet
+5.39511: Node ID: 54  Start sending packet
+5.3952: Node ID: 87  Start sending packet
+5.3952: Node ID: 57  Start sending packet
+5.39534: Node ID: 63  Start sending packet
+5.39536: Node ID: 78  Start sending packet
+5.39567: Node ID: 37  Start sending packet
+5.3959: Node ID: 0  Start sending packet
+5.39597: Node ID: 36  Start sending packet
+5.39597: Node ID: 39  Start sending packet
+5.39597: Node ID: 74  Start sending packet
+5.39608: Node ID: 17  Start sending packet
+5.3962: Node ID: 99  Start sending packet
+5.39646: Node ID: 79  Start sending packet
+5.39659: Node ID: 60  Start sending packet
+5.39664: Node ID: 91  Start sending packet
+5.39667: Node ID: 90  Start sending packet
+5.39677: Node ID: 98  Start sending packet
+5.39704: Node ID: 28  Start sending packet
+5.3972: Node ID: 83  Start sending packet
+5.3972: Node ID: 88  Start sending packet
+5.3972: Node ID: 32  Start sending packet
+5.39728: Node ID: 78  Start sending packet
+5.39734: Node ID: 67  Start sending packet
+5.39736: Node ID: 46  Start sending packet
+5.39767: Node ID: 64  Start sending packet
+5.39777: Node ID: 2  Start sending packet
+5.3979: Node ID: 52  Start sending packet
+5.3979: Node ID: 24  Start sending packet
+5.39804: Node ID: 9  Start sending packet
+5.39804: Node ID: 16  Start sending packet
+5.39829: Node ID: 80  Start sending packet
+5.39837: Node ID: 73  Start sending packet
+5.39846: Node ID: 27  Start sending packet
+5.39846: Node ID: 69  Start sending packet
+5.39868: Node ID: 15  Start sending packet
+5.39877: Node ID: 94  Start sending packet
+5.39877: Node ID: 4  Start sending packet
+5.39877: Node ID: 18  Start sending packet
+5.3989: Node ID: 20  Start sending packet
+5.39937: Node ID: 23  Start sending packet
+5.39951: Node ID: 92  Start sending packet
+5.39951: Node ID: 89  Start sending packet
+5.39967: Node ID: 40  Start sending packet
+5.39967: Node ID: 47  Start sending packet
+5.40046: Node ID: 93  Start sending packet
+5.40115: Node ID: 49  Start sending packet
+5.40146: Node ID: 85  Start sending packet
+5.40293: Node ID: 66  Start sending packet
+5.46782: Node ID: 69  Start sending packet
+5.46811: Node ID: 32  Start sending packet
+5.46836: Node ID: 69  Start sending packet
+5.46915: Node ID: 69  Start sending packet
+5.46959: Node ID: 32  Start sending packet
+5.47458: Node ID: 32  Start sending packet
+5.47486: Node ID: 69  Start sending packet
+5.47511: Node ID: 32  Start sending packet
+5.47561: Node ID: 32  Start sending packet
+5.47604: Node ID: 69  Start sending packet
+5.71198: Node ID: 12  Start sending packet
+5.71242: Node ID: 48  Start sending packet
+5.71277: Node ID: 48  Start sending packet
+5.71321: Node ID: 34  Start sending packet
+5.71356: Node ID: 34  Start sending packet
+5.71399: Node ID: 48  Start sending packet
+5.71467: Node ID: 48  Start sending packet
+5.7151: Node ID: 12  Start sending packet
+5.71793: Node ID: 44  Start sending packet
+5.71822: Node ID: 68  Start sending packet
+5.71847: Node ID: 44  Start sending packet
+5.71917: Node ID: 44  Start sending packet
+5.7196: Node ID: 68  Start sending packet
+5.72359: Node ID: 68  Start sending packet
+5.72388: Node ID: 44  Start sending packet
+5.72413: Node ID: 68  Start sending packet
+5.72474: Node ID: 68  Start sending packet
+5.72518: Node ID: 44  Start sending packet
+5.75608: Node ID: 99  Start sending packet
+5.75652: Node ID: 53  Start sending packet
+5.75687: Node ID: 53  Start sending packet
+5.7573: Node ID: 79  Start sending packet
+5.75766: Node ID: 79  Start sending packet
+5.75809: Node ID: 53  Start sending packet
+5.75855: Node ID: 53  Start sending packet
+5.75898: Node ID: 99  Start sending packet
+5.86787: Node ID: 62  Start sending packet
+5.86913: Node ID: 42  Start sending packet
+5.87013: Node ID: 67  Start sending packet
+5.87013: Node ID: 59  Start sending packet
+5.87139: Node ID: 12  Start sending packet
+5.87213: Node ID: 54  Start sending packet
+5.87244: Node ID: 3  Start sending packet
+5.87274: Node ID: 60  Start sending packet
+5.87313: Node ID: 87  Start sending packet
+5.87339: Node ID: 68  Start sending packet
+5.87344: Node ID: 25  Start sending packet
+5.87344: Node ID: 65  Start sending packet
+5.87369: Node ID: 61  Start sending packet
+5.87464: Node ID: 7  Start sending packet
+5.87513: Node ID: 22  Start sending packet
+5.87513: Node ID: 44  Start sending packet
+5.87513: Node ID: 70  Start sending packet
+5.87517: Node ID: 34  Start sending packet
+5.87539: Node ID: 76  Start sending packet
+5.87544: Node ID: 63  Start sending packet
+5.87546: Node ID: 36  Start sending packet
+5.87569: Node ID: 82  Start sending packet
+5.87569: Node ID: 18  Start sending packet
+5.87569: Node ID: 45  Start sending packet
+5.87574: Node ID: 50  Start sending packet
+5.87575: Node ID: 1  Start sending packet
+5.87584: Node ID: 74  Start sending packet
+5.876: Node ID: 96  Start sending packet
+5.87606: Node ID: 6  Start sending packet
+5.87613: Node ID: 91  Start sending packet
+5.87639: Node ID: 84  Start sending packet
+5.87639: Node ID: 72  Start sending packet
+5.87639: Node ID: 23  Start sending packet
+5.87666: Node ID: 21  Start sending packet
+5.87669: Node ID: 2  Start sending packet
+5.87669: Node ID: 48  Start sending packet
+5.87669: Node ID: 9  Start sending packet
+5.87669: Node ID: 92  Start sending packet
+5.87696: Node ID: 95  Start sending packet
+5.87701: Node ID: 99  Start sending packet
+5.87727: Node ID: 24  Start sending packet
+5.87733: Node ID: 43  Start sending packet
+5.87739: Node ID: 78  Start sending packet
+5.87764: Node ID: 31  Start sending packet
+5.87769: Node ID: 4  Start sending packet
+5.87784: Node ID: 41  Start sending packet
+5.878: Node ID: 56  Start sending packet
+5.87813: Node ID: 97  Start sending packet
+5.87826: Node ID: 69  Start sending packet
+5.87839: Node ID: 77  Start sending packet
+5.87844: Node ID: 81  Start sending packet
+5.87864: Node ID: 90  Start sending packet
+5.87864: Node ID: 35  Start sending packet
+5.87869: Node ID: 46  Start sending packet
+5.87895: Node ID: 98  Start sending packet
+5.87926: Node ID: 8  Start sending packet
+5.87939: Node ID: 73  Start sending packet
+5.87939: Node ID: 0  Start sending packet
+5.87939: Node ID: 58  Start sending packet
+5.87952: Node ID: 19  Start sending packet
+5.87952: Node ID: 27  Start sending packet
+5.87964: Node ID: 75  Start sending packet
+5.87969: Node ID: 71  Start sending packet
+5.88: Node ID: 47  Start sending packet
+5.88039: Node ID: 11  Start sending packet
+5.88039: Node ID: 17  Start sending packet
+5.88069: Node ID: 80  Start sending packet
+5.88069: Node ID: 38  Start sending packet
+5.88069: Node ID: 16  Start sending packet
+5.88071: Node ID: 37  Start sending packet
+5.88126: Node ID: 57  Start sending packet
+5.88139: Node ID: 39  Start sending packet
+5.88139: Node ID: 55  Start sending packet
+5.88139: Node ID: 5  Start sending packet
+5.88164: Node ID: 26  Start sending packet
+5.88164: Node ID: 30  Start sending packet
+5.88169: Node ID: 15  Start sending packet
+5.88195: Node ID: 51  Start sending packet
+5.88264: Node ID: 14  Start sending packet
+5.88269: Node ID: 94  Start sending packet
+5.88269: Node ID: 28  Start sending packet
+5.88269: Node ID: 20  Start sending packet
+5.88301: Node ID: 52  Start sending packet
+5.88331: Node ID: 83  Start sending packet
+5.88339: Node ID: 49  Start sending packet
+5.88369: Node ID: 64  Start sending packet
+5.88376: Node ID: 32  Start sending packet
+5.8838: Node ID: 89  Start sending packet
+5.8846: Node ID: 86  Start sending packet
+5.88471: Node ID: 66  Start sending packet
+5.885: Node ID: 40  Start sending packet
+5.88507: Node ID: 93  Start sending packet
+5.88539: Node ID: 10  Start sending packet
+5.88552: Node ID: 13  Start sending packet
+5.88564: Node ID: 33  Start sending packet
+5.88601: Node ID: 29  Start sending packet
+5.88631: Node ID: 53  Start sending packet
+5.88653: Node ID: 37  Start sending packet
+5.88696: Node ID: 78  Start sending packet
+5.88708: Node ID: 88  Start sending packet
+5.88852: Node ID: 79  Start sending packet
+5.89486: Node ID: 85  Start sending packet
+5.91815: Node ID: 7  Start sending packet
+5.91843: Node ID: 96  Start sending packet
+5.91868: Node ID: 7  Start sending packet
+5.91964: Node ID: 7  Start sending packet
+5.92007: Node ID: 96  Start sending packet
+5.92045: Node ID: 96  Start sending packet
+5.92098: Node ID: 7  Start sending packet
+5.92122: Node ID: 96  Start sending packet
+5.9216: Node ID: 96  Start sending packet
+5.92203: Node ID: 7  Start sending packet
+5.96582: Node ID: 69  Start sending packet
+5.96625: Node ID: 32  Start sending packet
+5.96661: Node ID: 32  Start sending packet
+5.96704: Node ID: 69  Start sending packet
+5.97124: Node ID: 33  Start sending packet
+5.97155: Node ID: 25  Start sending packet
+5.97186: Node ID: 87  Start sending packet
+5.97216: Node ID: 42  Start sending packet
+5.97247: Node ID: 95  Start sending packet
+5.97247: Node ID: 44  Start sending packet
+5.97281: Node ID: 4  Start sending packet
+5.9735: Node ID: 35  Start sending packet
+5.97381: Node ID: 18  Start sending packet
+5.9745: Node ID: 89  Start sending packet
+5.9745: Node ID: 58  Start sending packet
+5.97481: Node ID: 10  Start sending packet
+5.97481: Node ID: 88  Start sending packet
+5.97481: Node ID: 45  Start sending packet
+5.97511: Node ID: 8  Start sending packet
+5.97511: Node ID: 97  Start sending packet
+5.97511: Node ID: 41  Start sending packet
+5.97581: Node ID: 49  Start sending packet
+5.97611: Node ID: 98  Start sending packet
+5.97637: Node ID: 64  Start sending packet
+5.97642: Node ID: 54  Start sending packet
+5.97642: Node ID: 78  Start sending packet
+5.9765: Node ID: 65  Start sending packet
+5.9765: Node ID: 0  Start sending packet
+5.97676: Node ID: 2  Start sending packet
+5.97711: Node ID: 62  Start sending packet
+5.97711: Node ID: 91  Start sending packet
+5.97711: Node ID: 67  Start sending packet
+5.97737: Node ID: 40  Start sending packet
+5.97742: Node ID: 75  Start sending packet
+5.9775: Node ID: 14  Start sending packet
+5.9775: Node ID: 92  Start sending packet
+5.9775: Node ID: 72  Start sending packet
+5.97772: Node ID: 68  Start sending packet
+5.97772: Node ID: 12  Start sending packet
+5.97772: Node ID: 38  Start sending packet
+5.97773: Node ID: 21  Start sending packet
+5.97776: Node ID: 93  Start sending packet
+5.97776: Node ID: 53  Start sending packet
+5.97825: Node ID: 51  Start sending packet
+5.97838: Node ID: 57  Start sending packet
+5.9785: Node ID: 86  Start sending packet
+5.97862: Node ID: 46  Start sending packet
+5.97862: Node ID: 50  Start sending packet
+5.9787: Node ID: 5  Start sending packet
+5.97872: Node ID: 17  Start sending packet
+5.97876: Node ID: 19  Start sending packet
+5.97898: Node ID: 52  Start sending packet
+5.97937: Node ID: 77  Start sending packet
+5.97938: Node ID: 32  Start sending packet
+5.97942: Node ID: 84  Start sending packet
+5.97967: Node ID: 26  Start sending packet
+5.97974: Node ID: 20  Start sending packet
+5.97981: Node ID: 94  Start sending packet
+5.97998: Node ID: 34  Start sending packet
+5.98006: Node ID: 69  Start sending packet
+5.98006: Node ID: 1  Start sending packet
+5.98022: Node ID: 11  Start sending packet
+5.98057: Node ID: 3  Start sending packet
+5.98067: Node ID: 76  Start sending packet
+5.98068: Node ID: 29  Start sending packet
+5.98076: Node ID: 27  Start sending packet
+5.98093: Node ID: 55  Start sending packet
+5.98098: Node ID: 6  Start sending packet
+5.98098: Node ID: 16  Start sending packet
+5.98111: Node ID: 22  Start sending packet
+5.98127: Node ID: 99  Start sending packet
+5.98142: Node ID: 70  Start sending packet
+5.98142: Node ID: 24  Start sending packet
+5.98167: Node ID: 37  Start sending packet
+5.98172: Node ID: 31  Start sending packet
+5.98176: Node ID: 13  Start sending packet
+5.98198: Node ID: 82  Start sending packet
+5.98198: Node ID: 28  Start sending packet
+5.98204: Node ID: 89  Start sending packet
+5.98204: Node ID: 85  Start sending packet
+5.98211: Node ID: 81  Start sending packet
+5.98242: Node ID: 43  Start sending packet
+5.98242: Node ID: 90  Start sending packet
+5.98267: Node ID: 48  Start sending packet
+5.98276: Node ID: 71  Start sending packet
+5.98316: Node ID: 89  Start sending packet
+5.98341: Node ID: 13  Start sending packet
+5.98362: Node ID: 80  Start sending packet
+5.98367: Node ID: 47  Start sending packet
+5.98376: Node ID: 13  Start sending packet
+5.98376: Node ID: 83  Start sending packet
+5.98398: Node ID: 15  Start sending packet
+5.98437: Node ID: 63  Start sending packet
+5.98467: Node ID: 66  Start sending packet
+5.98467: Node ID: 56  Start sending packet
+5.98473: Node ID: 13  Start sending packet
+5.98498: Node ID: 9  Start sending packet
+5.98499: Node ID: 89  Start sending packet
+5.98537: Node ID: 59  Start sending packet
+5.98537: Node ID: 61  Start sending packet
+5.98567: Node ID: 36  Start sending packet
+5.98637: Node ID: 30  Start sending packet
+5.98667: Node ID: 73  Start sending packet
+5.98724: Node ID: 60  Start sending packet
+5.98767: Node ID: 39  Start sending packet
+5.98767: Node ID: 74  Start sending packet
+5.98767: Node ID: 96  Start sending packet
+5.98776: Node ID: 79  Start sending packet
+5.98798: Node ID: 7  Start sending packet
+5.98967: Node ID: 23  Start sending packet
+5.99398: Node ID: 89  Start sending packet
+5.99427: Node ID: 33  Start sending packet
+5.99452: Node ID: 89  Start sending packet
+5.99497: Node ID: 89  Start sending packet
+5.99524: Node ID: 33  Start sending packet
+5.99569: Node ID: 33  Start sending packet
+5.99622: Node ID: 89  Start sending packet
+5.99647: Node ID: 33  Start sending packet
+5.99682: Node ID: 33  Start sending packet
+5.99726: Node ID: 89  Start sending packet
+%INFO: TimeStamp: 6 segs Node: ID: 0   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 1   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 2   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 3   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 4   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 5   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 6   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 7   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 8   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 9   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 10   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 11   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 12   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 13   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 14   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 15   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 16   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 17   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 18   Current Remaining energy = 95.086 Joules
+%INFO: TOTALTEMPENERGYFRACTION 95.7412
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 6 segs Node: ID: 19   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 20   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 21   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 22   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 23   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 24   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 25   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 26   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 27   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 28   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 29   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 30   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 31   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 32   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 33   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 34   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 35   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 36   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 37   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 38   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 39   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 40   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 41   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 42   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 43   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 44   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 45   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 46   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 47   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 48   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 49   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 50   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 51   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 52   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 53   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 54   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 55   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 56   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 57   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 58   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 59   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 60   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 61   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 62   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 63   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 64   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 65   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 66   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 67   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 68   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 69   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 70   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 71   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 72   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 73   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 74   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 75   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 76   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 77   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 78   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 79   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 80   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 81   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 82   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 83   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 84   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 85   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 86   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 87   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 88   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 89   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 90   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 91   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 92   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 93   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 94   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 95   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 96   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 97   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 98   Current Remaining energy = 95.086 Joules
+%INFO: TimeStamp: 6 segs Node: ID: 99   Current Remaining energy = 95.086 Joules
+6.00125: Node ID: 89  Start sending packet
+6.00154: Node ID: 13  Start sending packet
+6.00179: Node ID: 89  Start sending packet
+6.00234: Node ID: 89  Start sending packet
+6.00278: Node ID: 13  Start sending packet
+6.00327: Node ID: 13  Start sending packet
+6.00371: Node ID: 89  Start sending packet
+6.00412: Node ID: 89  Start sending packet
+6.00455: Node ID: 33  Start sending packet
+6.07847: Node ID: 5  Start sending packet
+6.07876: Node ID: 87  Start sending packet
+6.07901: Node ID: 5  Start sending packet
+6.07996: Node ID: 5  Start sending packet
+6.08022: Node ID: 87  Start sending packet
+6.08321: Node ID: 87  Start sending packet
+6.0835: Node ID: 97  Start sending packet
+6.08375: Node ID: 87  Start sending packet
+6.08433: Node ID: 87  Start sending packet
+6.08459: Node ID: 97  Start sending packet
+6.09258: Node ID: 97  Start sending packet
+6.09287: Node ID: 95  Start sending packet
+6.09312: Node ID: 97  Start sending packet
+6.09391: Node ID: 97  Start sending packet
+6.09418: Node ID: 95  Start sending packet
+6.10217: Node ID: 95  Start sending packet
+6.10245: Node ID: 63  Start sending packet
+6.1027: Node ID: 95  Start sending packet
+6.10336: Node ID: 95  Start sending packet
+6.10362: Node ID: 63  Start sending packet
+6.11261: Node ID: 63  Start sending packet
+6.1129: Node ID: 64  Start sending packet
+6.11315: Node ID: 63  Start sending packet
+6.11402: Node ID: 63  Start sending packet
+6.11429: Node ID: 64  Start sending packet
+6.12228: Node ID: 64  Start sending packet
+6.12257: Node ID: 63  Start sending packet
+6.12282: Node ID: 64  Start sending packet
+6.12379: Node ID: 64  Start sending packet
+6.12422: Node ID: 63  Start sending packet
+6.1251: Node ID: 64  Start sending packet
+6.12553: Node ID: 63  Start sending packet
+6.12593: Node ID: 64  Start sending packet
+6.12636: Node ID: 63  Start sending packet
+6.12921: Node ID: 63  Start sending packet
+6.1295: Node ID: 95  Start sending packet
+6.12975: Node ID: 63  Start sending packet
+6.13059: Node ID: 63  Start sending packet
+6.13102: Node ID: 95  Start sending packet
+6.13142: Node ID: 63  Start sending packet
+6.13185: Node ID: 95  Start sending packet
+6.13228: Node ID: 63  Start sending packet
+6.13272: Node ID: 95  Start sending packet
+6.13339: Node ID: 95  Start sending packet
+6.13368: Node ID: 97  Start sending packet
+6.13393: Node ID: 95  Start sending packet
+6.13491: Node ID: 95  Start sending packet
+6.13534: Node ID: 97  Start sending packet
+6.13574: Node ID: 95  Start sending packet
+6.13617: Node ID: 97  Start sending packet
+6.13654: Node ID: 95  Start sending packet
+6.13698: Node ID: 97  Start sending packet
+6.13733: Node ID: 97  Start sending packet
+6.13762: Node ID: 87  Start sending packet
+6.13787: Node ID: 97  Start sending packet
+6.13837: Node ID: 97  Start sending packet
+6.1388: Node ID: 87  Start sending packet
+6.13963: Node ID: 97  Start sending packet
+6.14007: Node ID: 87  Start sending packet
+6.14046: Node ID: 97  Start sending packet
+6.1409: Node ID: 87  Start sending packet
+6.14479: Node ID: 87  Start sending packet
+6.14508: Node ID: 5  Start sending packet
+6.14533: Node ID: 87  Start sending packet
+6.14586: Node ID: 87  Start sending packet
+6.1463: Node ID: 5  Start sending packet
+6.14687: Node ID: 5  Start sending packet
+6.14731: Node ID: 87  Start sending packet
+6.14768: Node ID: 87  Start sending packet
+6.14812: Node ID: 5  Start sending packet
+6.14879: Node ID: 87  Start sending packet
+6.14922: Node ID: 5  Start sending packet
+6.14976: Node ID: 5  Start sending packet
+6.15019: Node ID: 87  Start sending packet
+6.15091: Node ID: 87  Start sending packet
+6.15134: Node ID: 97  Start sending packet
+6.1517: Node ID: 97  Start sending packet
+6.15182: Node ID: 5  Start sending packet
+6.15213: Node ID: 95  Start sending packet
+6.15249: Node ID: 95  Start sending packet
+6.15271: Node ID: 87  Start sending packet
+6.15292: Node ID: 63  Start sending packet
+6.15327: Node ID: 63  Start sending packet
+6.15371: Node ID: 64  Start sending packet
+6.15402: Node ID: 87  Start sending packet
+6.15446: Node ID: 97  Start sending packet
+6.15481: Node ID: 97  Start sending packet
+6.15509: Node ID: 5  Start sending packet
+6.15524: Node ID: 95  Start sending packet
+6.1556: Node ID: 95  Start sending packet
+6.15603: Node ID: 63  Start sending packet
+6.15639: Node ID: 63  Start sending packet
+6.15644: Node ID: 5  Start sending packet
+6.15682: Node ID: 64  Start sending packet
+6.15688: Node ID: 87  Start sending packet
+6.15723: Node ID: 87  Start sending packet
+6.15767: Node ID: 97  Start sending packet
+6.15802: Node ID: 97  Start sending packet
+6.15846: Node ID: 95  Start sending packet
+6.15895: Node ID: 95  Start sending packet
+6.15939: Node ID: 63  Start sending packet
+6.15974: Node ID: 63  Start sending packet
+6.16018: Node ID: 64  Start sending packet
+6.21198: Node ID: 12  Start sending packet
+6.21242: Node ID: 48  Start sending packet
+6.21277: Node ID: 48  Start sending packet
+6.21321: Node ID: 34  Start sending packet
+6.21356: Node ID: 34  Start sending packet
+6.21393: Node ID: 44  Start sending packet
+6.21399: Node ID: 48  Start sending packet
+6.21471: Node ID: 34  Start sending packet
+6.215: Node ID: 38  Start sending packet
+6.21525: Node ID: 34  Start sending packet
+6.21553: Node ID: 44  Start sending packet
+6.21578: Node ID: 48  Start sending packet
+6.21622: Node ID: 12  Start sending packet
+6.21678: Node ID: 44  Start sending packet
+6.21691: Node ID: 34  Start sending packet
+6.21717: Node ID: 38  Start sending packet
+6.22074: Node ID: 44  Start sending packet
+6.22117: Node ID: 68  Start sending packet
+6.22153: Node ID: 68  Start sending packet
+6.22196: Node ID: 44  Start sending packet
+6.22308: Node ID: 48  Start sending packet
+6.22337: Node ID: 26  Start sending packet
+6.22362: Node ID: 48  Start sending packet
+6.2243: Node ID: 48  Start sending packet
+6.22456: Node ID: 26  Start sending packet
+6.22516: Node ID: 38  Start sending packet
+6.22547: Node ID: 68  Start sending packet
+6.22576: Node ID: 30  Start sending packet
+6.22601: Node ID: 68  Start sending packet
+6.22647: Node ID: 68  Start sending packet
+6.22671: Node ID: 38  Start sending packet
+6.22707: Node ID: 38  Start sending packet
+6.22707: Node ID: 68  Start sending packet
+6.22733: Node ID: 30  Start sending packet
+6.22773: Node ID: 30  Start sending packet
+6.22802: Node ID: 44  Start sending packet
+6.22826: Node ID: 30  Start sending packet
+6.22863: Node ID: 38  Start sending packet
+6.2287: Node ID: 30  Start sending packet
+6.22896: Node ID: 44  Start sending packet
+6.22955: Node ID: 26  Start sending packet
+6.22984: Node ID: 48  Start sending packet
+6.23009: Node ID: 26  Start sending packet
+6.23074: Node ID: 26  Start sending packet
+6.23099: Node ID: 48  Start sending packet
+6.23191: Node ID: 26  Start sending packet
+6.23213: Node ID: 38  Start sending packet
+6.23324: Node ID: 26  Start sending packet
+6.23368: Node ID: 48  Start sending packet
+6.23403: Node ID: 48  Start sending packet
+6.23403: Node ID: 26  Start sending packet
+6.23447: Node ID: 34  Start sending packet
+6.23482: Node ID: 34  Start sending packet
+6.23495: Node ID: 44  Start sending packet
+6.23503: Node ID: 26  Start sending packet
+6.23525: Node ID: 38  Start sending packet
+6.23704: Node ID: 26  Start sending packet
+6.23748: Node ID: 48  Start sending packet
+6.23783: Node ID: 48  Start sending packet
+6.23826: Node ID: 34  Start sending packet
+6.23862: Node ID: 34  Start sending packet
+6.2389: Node ID: 12  Start sending packet
+6.23919: Node ID: 26  Start sending packet
+6.23944: Node ID: 12  Start sending packet
+6.24005: Node ID: 38  Start sending packet
+6.24031: Node ID: 68  Start sending packet
+6.24071: Node ID: 12  Start sending packet
+6.24097: Node ID: 26  Start sending packet
+6.24121: Node ID: 34  Start sending packet
+6.24164: Node ID: 38  Start sending packet
+6.24226: Node ID: 38  Start sending packet
+6.24269: Node ID: 68  Start sending packet
+6.24357: Node ID: 38  Start sending packet
+6.244: Node ID: 68  Start sending packet
+6.2463: Node ID: 68  Start sending packet
+6.24659: Node ID: 26  Start sending packet
+6.24684: Node ID: 68  Start sending packet
+6.24734: Node ID: 68  Start sending packet
+6.2476: Node ID: 26  Start sending packet
+6.24799: Node ID: 68  Start sending packet
+6.24843: Node ID: 26  Start sending packet
+6.24918: Node ID: 68  Start sending packet
+6.24962: Node ID: 26  Start sending packet
+6.25608: Node ID: 99  Start sending packet
+6.25652: Node ID: 53  Start sending packet
+6.25687: Node ID: 53  Start sending packet
+6.2573: Node ID: 79  Start sending packet
+6.25766: Node ID: 79  Start sending packet
+6.25809: Node ID: 53  Start sending packet
+6.25889: Node ID: 53  Start sending packet
+6.25932: Node ID: 99  Start sending packet
+6.38182: Node ID: 26  Start sending packet
+6.38226: Node ID: 48  Start sending packet
+6.38261: Node ID: 48  Start sending packet
+6.38305: Node ID: 34  Start sending packet
+6.3834: Node ID: 34  Start sending packet
+6.38384: Node ID: 38  Start sending packet
+6.38419: Node ID: 38  Start sending packet
+6.38463: Node ID: 68  Start sending packet
+6.38498: Node ID: 68  Start sending packet
+6.38541: Node ID: 26  Start sending packet
+6.38653: Node ID: 37  Start sending packet
+6.38696: Node ID: 78  Start sending packet
+6.3934: Node ID: 78  Start sending packet
+6.39369: Node ID: 97  Start sending packet
+6.39394: Node ID: 78  Start sending packet
+6.39469: Node ID: 78  Start sending packet
+6.39513: Node ID: 97  Start sending packet
+6.39562: Node ID: 97  Start sending packet
+6.39606: Node ID: 95  Start sending packet
+6.39641: Node ID: 95  Start sending packet
+6.39685: Node ID: 63  Start sending packet
+6.39685: Node ID: 78  Start sending packet
+6.3972: Node ID: 63  Start sending packet
+6.39729: Node ID: 97  Start sending packet
+6.39764: Node ID: 64  Start sending packet
+6.39788: Node ID: 97  Start sending packet
+6.39832: Node ID: 95  Start sending packet
+6.39881: Node ID: 95  Start sending packet
+6.39891: Node ID: 78  Start sending packet
+6.39925: Node ID: 63  Start sending packet
+6.3996: Node ID: 63  Start sending packet
+6.40003: Node ID: 64  Start sending packet
+6.40093: Node ID: 78  Start sending packet
+6.40136: Node ID: 97  Start sending packet
+6.40171: Node ID: 97  Start sending packet
+6.40215: Node ID: 95  Start sending packet
+6.4025: Node ID: 95  Start sending packet
+6.40294: Node ID: 63  Start sending packet
+6.40329: Node ID: 63  Start sending packet
+6.40373: Node ID: 64  Start sending packet
+6.40468: Node ID: 64  Start sending packet
+6.40594: Node ID: 80  Start sending packet
+6.40594: Node ID: 63  Start sending packet
+6.40624: Node ID: 30  Start sending packet
+6.40648: Node ID: 29  Start sending packet
+6.40679: Node ID: 32  Start sending packet
+6.40679: Node ID: 57  Start sending packet
+6.40679: Node ID: 71  Start sending packet
+6.40679: Node ID: 69  Start sending packet
+6.40719: Node ID: 21  Start sending packet
+6.40719: Node ID: 43  Start sending packet
+6.40719: Node ID: 31  Start sending packet
+6.4075: Node ID: 48  Start sending packet
+6.40774: Node ID: 52  Start sending packet
+6.40805: Node ID: 79  Start sending packet
+6.40835: Node ID: 1  Start sending packet
+6.40835: Node ID: 27  Start sending packet
+6.4085: Node ID: 12  Start sending packet
+6.40865: Node ID: 22  Start sending packet
+6.40876: Node ID: 82  Start sending packet
+6.40894: Node ID: 77  Start sending packet
+6.40924: Node ID: 11  Start sending packet
+6.40932: Node ID: 10  Start sending packet
+6.40974: Node ID: 88  Start sending packet
+6.40976: Node ID: 15  Start sending packet
+6.40991: Node ID: 42  Start sending packet
+6.41005: Node ID: 65  Start sending packet
+6.41005: Node ID: 0  Start sending packet
+6.41019: Node ID: 75  Start sending packet
+6.41055: Node ID: 81  Start sending packet
+6.41074: Node ID: 83  Start sending packet
+6.41094: Node ID: 46  Start sending packet
+6.41119: Node ID: 61  Start sending packet
+6.41145: Node ID: 96  Start sending packet
+6.41176: Node ID: 38  Start sending packet
+6.41191: Node ID: 87  Start sending packet
+6.41194: Node ID: 99  Start sending packet
+6.41206: Node ID: 28  Start sending packet
+6.41219: Node ID: 59  Start sending packet
+6.41219: Node ID: 44  Start sending packet
+6.4123: Node ID: 13  Start sending packet
+6.41241: Node ID: 5  Start sending packet
+6.4125: Node ID: 17  Start sending packet
+6.41251: Node ID: 90  Start sending packet
+6.41281: Node ID: 3  Start sending packet
+6.41281: Node ID: 68  Start sending packet
+6.41294: Node ID: 40  Start sending packet
+6.41294: Node ID: 50  Start sending packet
+6.41311: Node ID: 39  Start sending packet
+6.41311: Node ID: 23  Start sending packet
+6.4133: Node ID: 85  Start sending packet
+6.4133: Node ID: 58  Start sending packet
+6.41376: Node ID: 24  Start sending packet
+6.41376: Node ID: 84  Start sending packet
+6.41377: Node ID: 37  Start sending packet
+6.41416: Node ID: 49  Start sending packet
+6.4143: Node ID: 86  Start sending packet
+6.4143: Node ID: 19  Start sending packet
+6.4145: Node ID: 76  Start sending packet
+6.41456: Node ID: 74  Start sending packet
+6.41456: Node ID: 2  Start sending packet
+6.41467: Node ID: 92  Start sending packet
+6.41474: Node ID: 53  Start sending packet
+6.41486: Node ID: 47  Start sending packet
+6.41494: Node ID: 51  Start sending packet
+6.41494: Node ID: 41  Start sending packet
+6.41505: Node ID: 72  Start sending packet
+6.41515: Node ID: 7  Start sending packet
+6.41536: Node ID: 8  Start sending packet
+6.4155: Node ID: 26  Start sending packet
+6.4155: Node ID: 67  Start sending packet
+6.41574: Node ID: 20  Start sending packet
+6.41579: Node ID: 36  Start sending packet
+6.41591: Node ID: 95  Start sending packet
+6.41605: Node ID: 89  Start sending packet
+6.41621: Node ID: 6  Start sending packet
+6.41635: Node ID: 93  Start sending packet
+6.41641: Node ID: 70  Start sending packet
+6.41641: Node ID: 54  Start sending packet
+6.41677: Node ID: 66  Start sending packet
+6.41703: Node ID: 62  Start sending packet
+6.41705: Node ID: 14  Start sending packet
+6.41716: Node ID: 78  Start sending packet
+6.41722: Node ID: 7  Start sending packet
+6.41756: Node ID: 18  Start sending packet
+6.4176: Node ID: 91  Start sending packet
+6.41766: Node ID: 96  Start sending packet
+6.41767: Node ID: 33  Start sending packet
+6.41777: Node ID: 56  Start sending packet
+6.41791: Node ID: 97  Start sending packet
+6.41801: Node ID: 96  Start sending packet
+6.41844: Node ID: 7  Start sending packet
+6.41892: Node ID: 9  Start sending packet
+6.41926: Node ID: 34  Start sending packet
+6.41956: Node ID: 45  Start sending packet
+6.41965: Node ID: 60  Start sending packet
+6.41967: Node ID: 35  Start sending packet
+6.41969: Node ID: 7  Start sending packet
+6.42032: Node ID: 55  Start sending packet
+6.42033: Node ID: 16  Start sending packet
+6.42056: Node ID: 4  Start sending packet
+6.42077: Node ID: 73  Start sending packet
+6.42216: Node ID: 25  Start sending packet
+6.42356: Node ID: 94  Start sending packet
+6.42356: Node ID: 98  Start sending packet
+6.46582: Node ID: 69  Start sending packet
+6.46625: Node ID: 32  Start sending packet
+6.46661: Node ID: 32  Start sending packet
+6.46704: Node ID: 69  Start sending packet
+6.46724: Node ID: 33  Start sending packet
+6.46768: Node ID: 89  Start sending packet
+6.46803: Node ID: 89  Start sending packet
+6.46847: Node ID: 13  Start sending packet
+6.46882: Node ID: 13  Start sending packet
+6.46926: Node ID: 89  Start sending packet
+6.46975: Node ID: 89  Start sending packet
+6.47019: Node ID: 33  Start sending packet
+6.56614: Node ID: 64  Start sending packet
+6.56657: Node ID: 63  Start sending packet
+6.56693: Node ID: 63  Start sending packet
+6.56736: Node ID: 95  Start sending packet
+6.56772: Node ID: 95  Start sending packet
+6.56815: Node ID: 97  Start sending packet
+6.5685: Node ID: 97  Start sending packet
+6.56894: Node ID: 87  Start sending packet
+6.56929: Node ID: 87  Start sending packet
+6.56973: Node ID: 5  Start sending packet
+6.57172: Node ID: 5  Start sending packet
+6.57201: Node ID: 71  Start sending packet
+6.57226: Node ID: 5  Start sending packet
+6.57291: Node ID: 5  Start sending packet
+6.57335: Node ID: 71  Start sending packet
+6.57734: Node ID: 71  Start sending packet
+6.57762: Node ID: 29  Start sending packet
+6.57787: Node ID: 71  Start sending packet
+6.57835: Node ID: 71  Start sending packet
+6.57878: Node ID: 29  Start sending packet
+6.58477: Node ID: 29  Start sending packet
+6.58506: Node ID: 64  Start sending packet
+6.58531: Node ID: 29  Start sending packet
+6.5858: Node ID: 29  Start sending packet
+6.58624: Node ID: 64  Start sending packet
+6.71198: Node ID: 12  Start sending packet
+6.71242: Node ID: 48  Start sending packet
+6.71277: Node ID: 48  Start sending packet
+6.71321: Node ID: 34  Start sending packet
+6.71356: Node ID: 34  Start sending packet
+6.71393: Node ID: 44  Start sending packet
+6.71399: Node ID: 48  Start sending packet
+6.71426: Node ID: 44  Start sending packet
+6.71439: Node ID: 48  Start sending packet
+6.71482: Node ID: 12  Start sending packet
+6.71558: Node ID: 44  Start sending packet
+6.71601: Node ID: 68  Start sending packet
+6.71637: Node ID: 68  Start sending packet
+6.7168: Node ID: 44  Start sending packet
+6.75608: Node ID: 99  Start sending packet
+6.75652: Node ID: 53  Start sending packet
+6.75687: Node ID: 53  Start sending packet
+6.7573: Node ID: 79  Start sending packet
+6.75766: Node ID: 79  Start sending packet
+6.75809: Node ID: 53  Start sending packet
+6.75903: Node ID: 53  Start sending packet
+6.75946: Node ID: 99  Start sending packet
+6.87164: Node ID: 6  Start sending packet
+6.87193: Node ID: 12  Start sending packet
+6.87218: Node ID: 6  Start sending packet
+6.87307: Node ID: 6  Start sending packet
+6.87334: Node ID: 12  Start sending packet
+6.88182: Node ID: 26  Start sending packet
+6.88226: Node ID: 48  Start sending packet
+6.88261: Node ID: 48  Start sending packet
+6.88305: Node ID: 34  Start sending packet
+6.8834: Node ID: 34  Start sending packet
+6.88374: Node ID: 12  Start sending packet
+6.88403: Node ID: 59  Start sending packet
+6.88428: Node ID: 12  Start sending packet
+6.88479: Node ID: 12  Start sending packet
+6.885: Node ID: 34  Start sending packet
+6.88506: Node ID: 59  Start sending packet
+6.88699: Node ID: 34  Start sending packet
+6.88743: Node ID: 38  Start sending packet
+6.88778: Node ID: 38  Start sending packet
+6.88822: Node ID: 68  Start sending packet
+6.88857: Node ID: 68  Start sending packet
+6.889: Node ID: 26  Start sending packet
+6.89205: Node ID: 59  Start sending packet
+6.89234: Node ID: 62  Start sending packet
+6.89259: Node ID: 59  Start sending packet
+6.89326: Node ID: 59  Start sending packet
+6.89352: Node ID: 62  Start sending packet
+6.89551: Node ID: 62  Start sending packet
+6.8958: Node ID: 59  Start sending packet
+6.89605: Node ID: 62  Start sending packet
+6.89675: Node ID: 62  Start sending packet
+6.89718: Node ID: 59  Start sending packet
+6.89754: Node ID: 62  Start sending packet
+6.89797: Node ID: 59  Start sending packet
+6.89838: Node ID: 62  Start sending packet
+6.89882: Node ID: 59  Start sending packet
+6.90617: Node ID: 59  Start sending packet
+6.90646: Node ID: 12  Start sending packet
+6.90671: Node ID: 59  Start sending packet
+6.90754: Node ID: 59  Start sending packet
+6.90798: Node ID: 12  Start sending packet
+6.90835: Node ID: 59  Start sending packet
+6.90879: Node ID: 12  Start sending packet
+6.90952: Node ID: 59  Start sending packet
+6.90996: Node ID: 12  Start sending packet
+6.91515: Node ID: 7  Start sending packet
+6.91558: Node ID: 96  Start sending packet
+6.91593: Node ID: 96  Start sending packet
+6.91637: Node ID: 7  Start sending packet
+6.91697: Node ID: 12  Start sending packet
+6.91726: Node ID: 6  Start sending packet
+6.91751: Node ID: 12  Start sending packet
+6.91842: Node ID: 12  Start sending packet
+6.91886: Node ID: 6  Start sending packet
+6.91921: Node ID: 6  Start sending packet
+6.91964: Node ID: 12  Start sending packet
+6.92036: Node ID: 12  Start sending packet
+6.92079: Node ID: 6  Start sending packet
+6.92119: Node ID: 12  Start sending packet
+6.92162: Node ID: 6  Start sending packet
+6.92216: Node ID: 6  Start sending packet
+6.92259: Node ID: 12  Start sending packet
+6.92325: Node ID: 12  Start sending packet
+6.92368: Node ID: 59  Start sending packet
+6.92403: Node ID: 59  Start sending packet
+6.92447: Node ID: 62  Start sending packet
+6.92514: Node ID: 6  Start sending packet
+6.92558: Node ID: 12  Start sending packet
+6.92601: Node ID: 12  Start sending packet
+6.92645: Node ID: 59  Start sending packet
+6.9268: Node ID: 59  Start sending packet
+6.92724: Node ID: 62  Start sending packet
+6.92799: Node ID: 12  Start sending packet
+6.92843: Node ID: 59  Start sending packet
+6.9289: Node ID: 59  Start sending packet
+6.92933: Node ID: 62  Start sending packet
+6.96582: Node ID: 69  Start sending packet
+6.96625: Node ID: 32  Start sending packet
+6.96661: Node ID: 32  Start sending packet
+6.96704: Node ID: 69  Start sending packet
+6.96724: Node ID: 33  Start sending packet
+6.96768: Node ID: 89  Start sending packet
+6.96803: Node ID: 89  Start sending packet
+6.96847: Node ID: 13  Start sending packet
+6.96882: Node ID: 13  Start sending packet
+6.96926: Node ID: 89  Start sending packet
+6.96975: Node ID: 89  Start sending packet
+6.97019: Node ID: 33  Start sending packet
+%INFO: TimeStamp: 7 segs Node: ID: 0   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 1   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 2   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 3   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 4   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 5   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 6   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 7   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 8   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 9   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 10   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 11   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 12   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 13   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 14   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 15   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 16   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 17   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 18   Current Remaining energy = 94.267 Joules
+%INFO: TOTALTEMPENERGYFRACTION 94.9222
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 7 segs Node: ID: 19   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 20   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 21   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 22   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 23   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 24   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 25   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 26   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 27   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 28   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 29   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 30   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 31   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 32   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 33   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 34   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 35   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 36   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 37   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 38   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 39   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 40   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 41   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 42   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 43   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 44   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 45   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 46   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 47   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 48   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 49   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 50   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 51   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 52   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 53   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 54   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 55   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 56   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 57   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 58   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 59   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 60   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 61   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 62   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 63   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 64   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 65   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 66   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 67   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 68   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 69   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 70   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 71   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 72   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 73   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 74   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 75   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 76   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 77   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 78   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 79   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 80   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 81   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 82   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 83   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 84   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 85   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 86   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 87   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 88   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 89   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 90   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 91   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 92   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 93   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 94   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 95   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 96   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 97   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 98   Current Remaining energy = 94.267 Joules
+%INFO: TimeStamp: 7 segs Node: ID: 99   Current Remaining energy = 94.267 Joules
+7.06614: Node ID: 64  Start sending packet
+7.06657: Node ID: 63  Start sending packet
+7.06693: Node ID: 63  Start sending packet
+7.06736: Node ID: 95  Start sending packet
+7.06772: Node ID: 95  Start sending packet
+7.06815: Node ID: 97  Start sending packet
+7.0685: Node ID: 97  Start sending packet
+7.06894: Node ID: 87  Start sending packet
+7.06929: Node ID: 87  Start sending packet
+7.06973: Node ID: 5  Start sending packet
+7.07008: Node ID: 5  Start sending packet
+7.07052: Node ID: 71  Start sending packet
+7.07087: Node ID: 71  Start sending packet
+7.07131: Node ID: 29  Start sending packet
+7.07166: Node ID: 29  Start sending packet
+7.0721: Node ID: 64  Start sending packet
+7.21198: Node ID: 12  Start sending packet
+7.21242: Node ID: 48  Start sending packet
+7.21277: Node ID: 48  Start sending packet
+7.21321: Node ID: 34  Start sending packet
+7.21356: Node ID: 34  Start sending packet
+7.21393: Node ID: 44  Start sending packet
+7.21399: Node ID: 48  Start sending packet
+7.21465: Node ID: 48  Start sending packet
+7.21508: Node ID: 12  Start sending packet
+7.21531: Node ID: 44  Start sending packet
+7.21636: Node ID: 44  Start sending packet
+7.2168: Node ID: 68  Start sending packet
+7.21715: Node ID: 68  Start sending packet
+7.21759: Node ID: 44  Start sending packet
+7.25608: Node ID: 99  Start sending packet
+7.25652: Node ID: 53  Start sending packet
+7.25687: Node ID: 53  Start sending packet
+7.2573: Node ID: 79  Start sending packet
+7.25766: Node ID: 79  Start sending packet
+7.25809: Node ID: 53  Start sending packet
+7.25845: Node ID: 53  Start sending packet
+7.25888: Node ID: 99  Start sending packet
+7.36387: Node ID: 62  Start sending packet
+7.36431: Node ID: 59  Start sending packet
+7.36466: Node ID: 59  Start sending packet
+7.3651: Node ID: 12  Start sending packet
+7.36545: Node ID: 12  Start sending packet
+7.36589: Node ID: 6  Start sending packet
+7.36624: Node ID: 6  Start sending packet
+7.36668: Node ID: 12  Start sending packet
+7.36727: Node ID: 12  Start sending packet
+7.3677: Node ID: 59  Start sending packet
+7.36806: Node ID: 59  Start sending packet
+7.36849: Node ID: 62  Start sending packet
+7.38182: Node ID: 26  Start sending packet
+7.38226: Node ID: 48  Start sending packet
+7.38261: Node ID: 48  Start sending packet
+7.38305: Node ID: 34  Start sending packet
+7.3834: Node ID: 34  Start sending packet
+7.38384: Node ID: 38  Start sending packet
+7.38419: Node ID: 38  Start sending packet
+7.38463: Node ID: 68  Start sending packet
+7.38498: Node ID: 68  Start sending packet
+7.38541: Node ID: 26  Start sending packet
+7.41277: Node ID: 37  Start sending packet
+7.41306: Node ID: 90  Start sending packet
+7.41331: Node ID: 37  Start sending packet
+7.41426: Node ID: 37  Start sending packet
+7.41453: Node ID: 90  Start sending packet
+7.41515: Node ID: 7  Start sending packet
+7.41536: Node ID: 37  Start sending packet
+7.41558: Node ID: 96  Start sending packet
+7.4158: Node ID: 90  Start sending packet
+7.41593: Node ID: 96  Start sending packet
+7.41637: Node ID: 7  Start sending packet
+7.41647: Node ID: 37  Start sending packet
+7.4169: Node ID: 90  Start sending packet
+7.42252: Node ID: 90  Start sending packet
+7.42281: Node ID: 42  Start sending packet
+7.42305: Node ID: 90  Start sending packet
+7.42355: Node ID: 90  Start sending packet
+7.42381: Node ID: 42  Start sending packet
+7.42449: Node ID: 90  Start sending packet
+7.42492: Node ID: 42  Start sending packet
+7.42552: Node ID: 90  Start sending packet
+7.42595: Node ID: 42  Start sending packet
+7.4308: Node ID: 42  Start sending packet
+7.43109: Node ID: 22  Start sending packet
+7.43134: Node ID: 42  Start sending packet
+7.43169: Node ID: 42  Start sending packet
+7.43196: Node ID: 22  Start sending packet
+7.43239: Node ID: 42  Start sending packet
+7.43283: Node ID: 22  Start sending packet
+7.43368: Node ID: 42  Start sending packet
+7.43412: Node ID: 22  Start sending packet
+7.43595: Node ID: 22  Start sending packet
+7.43624: Node ID: 1  Start sending packet
+7.43649: Node ID: 22  Start sending packet
+7.43694: Node ID: 22  Start sending packet
+7.4372: Node ID: 1  Start sending packet
+7.43758: Node ID: 1  Start sending packet
+7.43787: Node ID: 64  Start sending packet
+7.43809: Node ID: 22  Start sending packet
+7.43942: Node ID: 64  Start sending packet
+7.43967: Node ID: 1  Start sending packet
+7.44002: Node ID: 1  Start sending packet
+7.44028: Node ID: 64  Start sending packet
+7.44082: Node ID: 22  Start sending packet
+7.44125: Node ID: 1  Start sending packet
+7.44161: Node ID: 1  Start sending packet
+7.44204: Node ID: 64  Start sending packet
+7.443: Node ID: 22  Start sending packet
+7.44327: Node ID: 64  Start sending packet
+7.44419: Node ID: 22  Start sending packet
+7.44463: Node ID: 1  Start sending packet
+7.44498: Node ID: 1  Start sending packet
+7.44541: Node ID: 64  Start sending packet
+7.46582: Node ID: 69  Start sending packet
+7.46625: Node ID: 32  Start sending packet
+7.46661: Node ID: 32  Start sending packet
+7.46704: Node ID: 69  Start sending packet
+7.46724: Node ID: 33  Start sending packet
+7.46768: Node ID: 89  Start sending packet
+7.46803: Node ID: 89  Start sending packet
+7.46847: Node ID: 13  Start sending packet
+7.46882: Node ID: 13  Start sending packet
+7.46926: Node ID: 89  Start sending packet
+7.47003: Node ID: 89  Start sending packet
+7.47047: Node ID: 33  Start sending packet
+7.56614: Node ID: 64  Start sending packet
+7.56657: Node ID: 63  Start sending packet
+7.56693: Node ID: 63  Start sending packet
+7.56736: Node ID: 95  Start sending packet
+7.56772: Node ID: 95  Start sending packet
+7.56815: Node ID: 97  Start sending packet
+7.5685: Node ID: 97  Start sending packet
+7.56894: Node ID: 87  Start sending packet
+7.56929: Node ID: 87  Start sending packet
+7.56973: Node ID: 5  Start sending packet
+7.57008: Node ID: 5  Start sending packet
+7.57052: Node ID: 71  Start sending packet
+7.57087: Node ID: 71  Start sending packet
+7.57131: Node ID: 29  Start sending packet
+7.57166: Node ID: 29  Start sending packet
+7.5721: Node ID: 64  Start sending packet
+7.71198: Node ID: 12  Start sending packet
+7.71242: Node ID: 48  Start sending packet
+7.71277: Node ID: 48  Start sending packet
+7.71321: Node ID: 34  Start sending packet
+7.71356: Node ID: 34  Start sending packet
+7.71393: Node ID: 44  Start sending packet
+7.71399: Node ID: 48  Start sending packet
+7.71428: Node ID: 44  Start sending packet
+7.71449: Node ID: 48  Start sending packet
+7.71492: Node ID: 12  Start sending packet
+7.71584: Node ID: 44  Start sending packet
+7.71627: Node ID: 68  Start sending packet
+7.71663: Node ID: 68  Start sending packet
+7.71706: Node ID: 44  Start sending packet
+7.75608: Node ID: 99  Start sending packet
+7.75652: Node ID: 53  Start sending packet
+7.75687: Node ID: 53  Start sending packet
+7.7573: Node ID: 79  Start sending packet
+7.75766: Node ID: 79  Start sending packet
+7.75809: Node ID: 53  Start sending packet
+7.75887: Node ID: 53  Start sending packet
+7.7593: Node ID: 99  Start sending packet
+7.86387: Node ID: 62  Start sending packet
+7.86431: Node ID: 59  Start sending packet
+7.86466: Node ID: 59  Start sending packet
+7.8651: Node ID: 12  Start sending packet
+7.86545: Node ID: 12  Start sending packet
+7.86589: Node ID: 6  Start sending packet
+7.86624: Node ID: 6  Start sending packet
+7.86668: Node ID: 12  Start sending packet
+7.86755: Node ID: 12  Start sending packet
+7.86798: Node ID: 59  Start sending packet
+7.86834: Node ID: 59  Start sending packet
+7.86877: Node ID: 62  Start sending packet
+7.88182: Node ID: 26  Start sending packet
+7.88226: Node ID: 48  Start sending packet
+7.88261: Node ID: 48  Start sending packet
+7.88305: Node ID: 34  Start sending packet
+7.8834: Node ID: 34  Start sending packet
+7.88384: Node ID: 38  Start sending packet
+7.88419: Node ID: 38  Start sending packet
+7.88463: Node ID: 68  Start sending packet
+7.88498: Node ID: 68  Start sending packet
+7.88541: Node ID: 26  Start sending packet
+7.88653: Node ID: 37  Start sending packet
+7.88696: Node ID: 90  Start sending packet
+7.88731: Node ID: 90  Start sending packet
+7.88775: Node ID: 42  Start sending packet
+7.8881: Node ID: 42  Start sending packet
+7.88854: Node ID: 22  Start sending packet
+7.88889: Node ID: 22  Start sending packet
+7.88933: Node ID: 1  Start sending packet
+7.88968: Node ID: 1  Start sending packet
+7.89012: Node ID: 64  Start sending packet
+7.91515: Node ID: 7  Start sending packet
+7.91558: Node ID: 96  Start sending packet
+7.91593: Node ID: 96  Start sending packet
+7.91637: Node ID: 7  Start sending packet
+7.96582: Node ID: 69  Start sending packet
+7.96625: Node ID: 32  Start sending packet
+7.96661: Node ID: 32  Start sending packet
+7.96704: Node ID: 69  Start sending packet
+7.96724: Node ID: 33  Start sending packet
+7.96768: Node ID: 89  Start sending packet
+7.96803: Node ID: 89  Start sending packet
+7.96847: Node ID: 13  Start sending packet
+7.96882: Node ID: 13  Start sending packet
+7.96926: Node ID: 89  Start sending packet
+7.97007: Node ID: 89  Start sending packet
+7.97051: Node ID: 33  Start sending packet
+7.98537: Node ID: 59  Start sending packet
+7.98563: Node ID: 62  Start sending packet
+%INFO: TimeStamp: 8 segs Node: ID: 0   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 1   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 2   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 3   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 4   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 5   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 6   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 7   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 8   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 9   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 10   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 11   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 12   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 13   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 14   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 15   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 16   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 17   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 18   Current Remaining energy = 93.448 Joules
+%INFO: TOTALTEMPENERGYFRACTION 94.1032
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 8 segs Node: ID: 19   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 20   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 21   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 22   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 23   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 24   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 25   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 26   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 27   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 28   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 29   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 30   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 31   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 32   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 33   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 34   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 35   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 36   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 37   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 38   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 39   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 40   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 41   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 42   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 43   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 44   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 45   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 46   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 47   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 48   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 49   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 50   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 51   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 52   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 53   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 54   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 55   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 56   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 57   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 58   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 59   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 60   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 61   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 62   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 63   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 64   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 65   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 66   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 67   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 68   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 69   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 70   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 71   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 72   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 73   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 74   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 75   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 76   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 77   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 78   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 79   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 80   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 81   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 82   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 83   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 84   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 85   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 86   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 87   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 88   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 89   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 90   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 91   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 92   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 93   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 94   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 95   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 96   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 97   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 98   Current Remaining energy = 93.448 Joules
+%INFO: TimeStamp: 8 segs Node: ID: 99   Current Remaining energy = 93.448 Joules
+8.06614: Node ID: 64  Start sending packet
+8.06657: Node ID: 63  Start sending packet
+8.06693: Node ID: 63  Start sending packet
+8.06736: Node ID: 95  Start sending packet
+8.06772: Node ID: 95  Start sending packet
+8.06815: Node ID: 97  Start sending packet
+8.0685: Node ID: 97  Start sending packet
+8.06894: Node ID: 87  Start sending packet
+8.06929: Node ID: 87  Start sending packet
+8.06973: Node ID: 5  Start sending packet
+8.07008: Node ID: 5  Start sending packet
+8.07052: Node ID: 71  Start sending packet
+8.07087: Node ID: 71  Start sending packet
+8.07131: Node ID: 29  Start sending packet
+8.07166: Node ID: 29  Start sending packet
+8.0721: Node ID: 64  Start sending packet
+8.21198: Node ID: 12  Start sending packet
+8.21242: Node ID: 48  Start sending packet
+8.21277: Node ID: 48  Start sending packet
+8.21321: Node ID: 34  Start sending packet
+8.21356: Node ID: 34  Start sending packet
+8.21393: Node ID: 44  Start sending packet
+8.21399: Node ID: 48  Start sending packet
+8.21435: Node ID: 48  Start sending packet
+8.21477: Node ID: 44  Start sending packet
+8.21478: Node ID: 12  Start sending packet
+8.217: Node ID: 44  Start sending packet
+8.21744: Node ID: 68  Start sending packet
+8.21779: Node ID: 68  Start sending packet
+8.21823: Node ID: 44  Start sending packet
+8.25608: Node ID: 99  Start sending packet
+8.25652: Node ID: 53  Start sending packet
+8.25687: Node ID: 53  Start sending packet
+8.2573: Node ID: 79  Start sending packet
+8.25766: Node ID: 79  Start sending packet
+8.25809: Node ID: 53  Start sending packet
+8.25857: Node ID: 53  Start sending packet
+8.259: Node ID: 99  Start sending packet
+8.36587: Node ID: 62  Start sending packet
+8.36618: Node ID: 67  Start sending packet
+8.36618: Node ID: 54  Start sending packet
+8.36744: Node ID: 55  Start sending packet
+8.36744: Node ID: 3  Start sending packet
+8.36744: Node ID: 74  Start sending packet
+8.36844: Node ID: 30  Start sending packet
+8.36869: Node ID: 38  Start sending packet
+8.36874: Node ID: 26  Start sending packet
+8.369: Node ID: 28  Start sending packet
+8.36913: Node ID: 22  Start sending packet
+8.36913: Node ID: 44  Start sending packet
+8.36931: Node ID: 12  Start sending packet
+8.36969: Node ID: 63  Start sending packet
+8.36969: Node ID: 82  Start sending packet
+8.36969: Node ID: 16  Start sending packet
+8.36975: Node ID: 68  Start sending packet
+8.37: Node ID: 64  Start sending packet
+8.37022: Node ID: 12  Start sending packet
+8.37031: Node ID: 60  Start sending packet
+8.37039: Node ID: 20  Start sending packet
+8.37048: Node ID: 6  Start sending packet
+8.37069: Node ID: 34  Start sending packet
+8.37108: Node ID: 96  Start sending packet
+8.37109: Node ID: 11  Start sending packet
+8.37113: Node ID: 91  Start sending packet
+8.37125: Node ID: 29  Start sending packet
+8.37144: Node ID: 6  Start sending packet
+8.37144: Node ID: 39  Start sending packet
+8.37156: Node ID: 57  Start sending packet
+8.37164: Node ID: 5  Start sending packet
+8.37172: Node ID: 67  Start sending packet
+8.37195: Node ID: 35  Start sending packet
+8.37197: Node ID: 6  Start sending packet
+8.37237: Node ID: 43  Start sending packet
+8.37243: Node ID: 83  Start sending packet
+8.37269: Node ID: 78  Start sending packet
+8.37269: Node ID: 77  Start sending packet
+8.3729: Node ID: 14  Start sending packet
+8.373: Node ID: 18  Start sending packet
+8.37302: Node ID: 6  Start sending packet
+8.37313: Node ID: 97  Start sending packet
+8.37313: Node ID: 87  Start sending packet
+8.37313: Node ID: 24  Start sending packet
+8.37317: Node ID: 88  Start sending packet
+8.37344: Node ID: 48  Start sending packet
+8.37344: Node ID: 23  Start sending packet
+8.37364: Node ID: 52  Start sending packet
+8.37366: Node ID: 95  Start sending packet
+8.37395: Node ID: 50  Start sending packet
+8.37395: Node ID: 4  Start sending packet
+8.37398: Node ID: 9  Start sending packet
+8.37406: Node ID: 17  Start sending packet
+8.37413: Node ID: 42  Start sending packet
+8.37444: Node ID: 6  Start sending packet
+8.37469: Node ID: 37  Start sending packet
+8.37471: Node ID: 67  Start sending packet
+8.3749: Node ID: 25  Start sending packet
+8.37495: Node ID: 51  Start sending packet
+8.37513: Node ID: 59  Start sending packet
+8.37513: Node ID: 70  Start sending packet
+8.37513: Node ID: 90  Start sending packet
+8.37544: Node ID: 75  Start sending packet
+8.37546: Node ID: 41  Start sending packet
+8.37564: Node ID: 89  Start sending packet
+8.37575: Node ID: 36  Start sending packet
+8.37575: Node ID: 73  Start sending packet
+8.37613: Node ID: 81  Start sending packet
+8.37613: Node ID: 21  Start sending packet
+8.37617: Node ID: 27  Start sending packet
+8.3765: Node ID: 31  Start sending packet
+8.37651: Node ID: 8  Start sending packet
+8.37657: Node ID: 56  Start sending packet
+8.37669: Node ID: 15  Start sending packet
+8.37669: Node ID: 7  Start sending packet
+8.37675: Node ID: 1  Start sending packet
+8.37675: Node ID: 84  Start sending packet
+8.3768: Node ID: 76  Start sending packet
+8.37682: Node ID: 93  Start sending packet
+8.37714: Node ID: 86  Start sending packet
+8.3772: Node ID: 94  Start sending packet
+8.37728: Node ID: 46  Start sending packet
+8.37749: Node ID: 12  Start sending packet
+8.37764: Node ID: 0  Start sending packet
+8.37764: Node ID: 53  Start sending packet
+8.37778: Node ID: 30  Start sending packet
+8.37795: Node ID: 92  Start sending packet
+8.37803: Node ID: 12  Start sending packet
+8.37825: Node ID: 40  Start sending packet
+8.37825: Node ID: 45  Start sending packet
+8.37848: Node ID: 61  Start sending packet
+8.37864: Node ID: 71  Start sending packet
+8.37882: Node ID: 19  Start sending packet
+8.3789: Node ID: 49  Start sending packet
+8.37907: Node ID: 12  Start sending packet
+8.37925: Node ID: 2  Start sending packet
+8.37925: Node ID: 99  Start sending packet
+8.37933: Node ID: 30  Start sending packet
+8.37939: Node ID: 72  Start sending packet
+8.37969: Node ID: 65  Start sending packet
+8.3799: Node ID: 58  Start sending packet
+8.37995: Node ID: 80  Start sending packet
+8.38017: Node ID: 10  Start sending packet
+8.38051: Node ID: 69  Start sending packet
+8.38057: Node ID: 47  Start sending packet
+8.38065: Node ID: 33  Start sending packet
+8.38092: Node ID: 32  Start sending packet
+8.38095: Node ID: 66  Start sending packet
+8.38125: Node ID: 98  Start sending packet
+8.38142: Node ID: 85  Start sending packet
+8.38182: Node ID: 13  Start sending packet
+8.38182: Node ID: 26  Start sending packet
+8.38226: Node ID: 48  Start sending packet
+8.38261: Node ID: 48  Start sending packet
+8.3827: Node ID: 67  Start sending packet
+8.38298: Node ID: 62  Start sending packet
+8.38305: Node ID: 34  Start sending packet
+8.38323: Node ID: 67  Start sending packet
+8.3834: Node ID: 34  Start sending packet
+8.38384: Node ID: 38  Start sending packet
+8.38395: Node ID: 67  Start sending packet
+8.38419: Node ID: 38  Start sending packet
+8.38421: Node ID: 62  Start sending packet
+8.38463: Node ID: 68  Start sending packet
+8.38498: Node ID: 68  Start sending packet
+8.38541: Node ID: 26  Start sending packet
+8.38542: Node ID: 79  Start sending packet
+8.38632: Node ID: 30  Start sending packet
+8.38653: Node ID: 37  Start sending packet
+8.38661: Node ID: 12  Start sending packet
+8.38686: Node ID: 30  Start sending packet
+8.38696: Node ID: 90  Start sending packet
+8.38731: Node ID: 90  Start sending packet
+8.38741: Node ID: 30  Start sending packet
+8.38766: Node ID: 12  Start sending packet
+8.38775: Node ID: 42  Start sending packet
+8.38804: Node ID: 30  Start sending packet
+8.3881: Node ID: 42  Start sending packet
+8.38854: Node ID: 22  Start sending packet
+8.38889: Node ID: 22  Start sending packet
+8.38933: Node ID: 1  Start sending packet
+8.38968: Node ID: 1  Start sending packet
+8.39012: Node ID: 64  Start sending packet
+8.3922: Node ID: 62  Start sending packet
+8.39249: Node ID: 67  Start sending packet
+8.39274: Node ID: 62  Start sending packet
+8.39319: Node ID: 62  Start sending packet
+8.39363: Node ID: 67  Start sending packet
+8.39862: Node ID: 67  Start sending packet
+8.39891: Node ID: 6  Start sending packet
+8.39916: Node ID: 67  Start sending packet
+8.39977: Node ID: 67  Start sending packet
+8.40021: Node ID: 6  Start sending packet
+8.40064: Node ID: 6  Start sending packet
+8.40107: Node ID: 67  Start sending packet
+8.40183: Node ID: 67  Start sending packet
+8.40226: Node ID: 62  Start sending packet
+8.41515: Node ID: 7  Start sending packet
+8.41558: Node ID: 96  Start sending packet
+8.41593: Node ID: 96  Start sending packet
+8.41637: Node ID: 7  Start sending packet
+8.44027: Node ID: 64  Start sending packet
+8.44056: Node ID: 1  Start sending packet
+8.44081: Node ID: 64  Start sending packet
+8.44161: Node ID: 64  Start sending packet
+8.44204: Node ID: 1  Start sending packet
+8.44289: Node ID: 64  Start sending packet
+8.44333: Node ID: 1  Start sending packet
+8.44382: Node ID: 64  Start sending packet
+8.44426: Node ID: 1  Start sending packet
+8.44703: Node ID: 1  Start sending packet
+8.44732: Node ID: 22  Start sending packet
+8.44757: Node ID: 1  Start sending packet
+8.44836: Node ID: 1  Start sending packet
+8.4488: Node ID: 22  Start sending packet
+8.44935: Node ID: 1  Start sending packet
+8.44979: Node ID: 22  Start sending packet
+8.4503: Node ID: 1  Start sending packet
+8.45074: Node ID: 22  Start sending packet
+8.45679: Node ID: 22  Start sending packet
+8.45708: Node ID: 42  Start sending packet
+8.45733: Node ID: 22  Start sending packet
+8.4581: Node ID: 22  Start sending packet
+8.45853: Node ID: 42  Start sending packet
+8.45911: Node ID: 22  Start sending packet
+8.45954: Node ID: 42  Start sending packet
+8.46004: Node ID: 22  Start sending packet
+8.46047: Node ID: 42  Start sending packet
+8.46152: Node ID: 42  Start sending packet
+8.46181: Node ID: 90  Start sending packet
+8.46206: Node ID: 42  Start sending packet
+8.46264: Node ID: 42  Start sending packet
+8.46307: Node ID: 90  Start sending packet
+8.46369: Node ID: 42  Start sending packet
+8.46412: Node ID: 90  Start sending packet
+8.46499: Node ID: 42  Start sending packet
+8.46543: Node ID: 90  Start sending packet
+8.46582: Node ID: 69  Start sending packet
+8.46625: Node ID: 32  Start sending packet
+8.46661: Node ID: 32  Start sending packet
+8.46704: Node ID: 69  Start sending packet
+8.46706: Node ID: 90  Start sending packet
+8.46724: Node ID: 33  Start sending packet
+8.46735: Node ID: 37  Start sending packet
+8.4676: Node ID: 90  Start sending packet
+8.46768: Node ID: 89  Start sending packet
+8.46803: Node ID: 89  Start sending packet
+8.46819: Node ID: 90  Start sending packet
+8.46847: Node ID: 13  Start sending packet
+8.46863: Node ID: 37  Start sending packet
+8.46882: Node ID: 13  Start sending packet
+8.46926: Node ID: 89  Start sending packet
+8.46928: Node ID: 90  Start sending packet
+8.46972: Node ID: 37  Start sending packet
+8.46999: Node ID: 89  Start sending packet
+8.47043: Node ID: 33  Start sending packet
+8.47045: Node ID: 90  Start sending packet
+8.47089: Node ID: 37  Start sending packet
+8.56614: Node ID: 64  Start sending packet
+8.56657: Node ID: 63  Start sending packet
+8.56693: Node ID: 63  Start sending packet
+8.56736: Node ID: 95  Start sending packet
+8.56772: Node ID: 95  Start sending packet
+8.56815: Node ID: 97  Start sending packet
+8.5685: Node ID: 97  Start sending packet
+8.56894: Node ID: 87  Start sending packet
+8.56929: Node ID: 87  Start sending packet
+8.56973: Node ID: 5  Start sending packet
+8.57008: Node ID: 5  Start sending packet
+8.57052: Node ID: 71  Start sending packet
+8.57087: Node ID: 71  Start sending packet
+8.57131: Node ID: 29  Start sending packet
+8.57166: Node ID: 29  Start sending packet
+8.5721: Node ID: 64  Start sending packet
+8.71198: Node ID: 12  Start sending packet
+8.71242: Node ID: 48  Start sending packet
+8.71277: Node ID: 48  Start sending packet
+8.71321: Node ID: 34  Start sending packet
+8.71356: Node ID: 34  Start sending packet
+8.71393: Node ID: 44  Start sending packet
+8.71399: Node ID: 48  Start sending packet
+8.7143: Node ID: 44  Start sending packet
+8.71474: Node ID: 68  Start sending packet
+8.71509: Node ID: 68  Start sending packet
+8.71553: Node ID: 44  Start sending packet
+8.71604: Node ID: 48  Start sending packet
+8.71648: Node ID: 12  Start sending packet
+8.75608: Node ID: 99  Start sending packet
+8.75652: Node ID: 53  Start sending packet
+8.75687: Node ID: 53  Start sending packet
+8.7573: Node ID: 79  Start sending packet
+8.75766: Node ID: 79  Start sending packet
+8.75809: Node ID: 53  Start sending packet
+8.75877: Node ID: 53  Start sending packet
+8.7592: Node ID: 99  Start sending packet
+8.86387: Node ID: 62  Start sending packet
+8.86431: Node ID: 67  Start sending packet
+8.86466: Node ID: 67  Start sending packet
+8.8651: Node ID: 6  Start sending packet
+8.86545: Node ID: 6  Start sending packet
+8.86589: Node ID: 67  Start sending packet
+8.86632: Node ID: 67  Start sending packet
+8.86676: Node ID: 62  Start sending packet
+8.88182: Node ID: 26  Start sending packet
+8.88226: Node ID: 48  Start sending packet
+8.88261: Node ID: 48  Start sending packet
+8.88305: Node ID: 34  Start sending packet
+8.8834: Node ID: 34  Start sending packet
+8.88384: Node ID: 38  Start sending packet
+8.88419: Node ID: 38  Start sending packet
+8.88463: Node ID: 68  Start sending packet
+8.88498: Node ID: 68  Start sending packet
+8.88541: Node ID: 26  Start sending packet
+8.88653: Node ID: 37  Start sending packet
+8.88696: Node ID: 90  Start sending packet
+8.88731: Node ID: 90  Start sending packet
+8.88775: Node ID: 42  Start sending packet
+8.8881: Node ID: 42  Start sending packet
+8.88854: Node ID: 22  Start sending packet
+8.88889: Node ID: 22  Start sending packet
+8.88933: Node ID: 1  Start sending packet
+8.88968: Node ID: 1  Start sending packet
+8.89012: Node ID: 64  Start sending packet
+8.89047: Node ID: 64  Start sending packet
+8.89091: Node ID: 1  Start sending packet
+8.8918: Node ID: 1  Start sending packet
+8.89223: Node ID: 22  Start sending packet
+8.89259: Node ID: 22  Start sending packet
+8.89302: Node ID: 42  Start sending packet
+8.89338: Node ID: 42  Start sending packet
+8.89381: Node ID: 90  Start sending packet
+8.89417: Node ID: 90  Start sending packet
+8.8946: Node ID: 37  Start sending packet
+8.91515: Node ID: 7  Start sending packet
+8.91558: Node ID: 96  Start sending packet
+8.91593: Node ID: 96  Start sending packet
+8.91637: Node ID: 7  Start sending packet
+8.96582: Node ID: 69  Start sending packet
+8.96625: Node ID: 32  Start sending packet
+8.96661: Node ID: 32  Start sending packet
+8.96704: Node ID: 69  Start sending packet
+8.96724: Node ID: 33  Start sending packet
+8.96768: Node ID: 89  Start sending packet
+8.96803: Node ID: 89  Start sending packet
+8.96847: Node ID: 13  Start sending packet
+8.96882: Node ID: 13  Start sending packet
+8.96926: Node ID: 89  Start sending packet
+8.97007: Node ID: 89  Start sending packet
+8.97051: Node ID: 33  Start sending packet
+%INFO: TimeStamp: 9 segs Node: ID: 0   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 1   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 2   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 3   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 4   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 5   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 6   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 7   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 8   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 9   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 10   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 11   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 12   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 13   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 14   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 15   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 16   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 17   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 18   Current Remaining energy = 92.629 Joules
+%INFO: TOTALTEMPENERGYFRACTION 93.2842
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 9 segs Node: ID: 19   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 20   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 21   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 22   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 23   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 24   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 25   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 26   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 27   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 28   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 29   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 30   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 31   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 32   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 33   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 34   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 35   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 36   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 37   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 38   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 39   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 40   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 41   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 42   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 43   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 44   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 45   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 46   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 47   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 48   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 49   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 50   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 51   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 52   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 53   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 54   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 55   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 56   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 57   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 58   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 59   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 60   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 61   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 62   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 63   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 64   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 65   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 66   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 67   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 68   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 69   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 70   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 71   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 72   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 73   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 74   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 75   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 76   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 77   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 78   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 79   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 80   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 81   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 82   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 83   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 84   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 85   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 86   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 87   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 88   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 89   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 90   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 91   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 92   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 93   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 94   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 95   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 96   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 97   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 98   Current Remaining energy = 92.629 Joules
+%INFO: TimeStamp: 9 segs Node: ID: 99   Current Remaining energy = 92.629 Joules
+9.06614: Node ID: 64  Start sending packet
+9.06657: Node ID: 63  Start sending packet
+9.06693: Node ID: 63  Start sending packet
+9.06736: Node ID: 95  Start sending packet
+9.06772: Node ID: 95  Start sending packet
+9.06815: Node ID: 97  Start sending packet
+9.0685: Node ID: 97  Start sending packet
+9.06894: Node ID: 87  Start sending packet
+9.06929: Node ID: 87  Start sending packet
+9.06973: Node ID: 5  Start sending packet
+9.07008: Node ID: 5  Start sending packet
+9.07052: Node ID: 71  Start sending packet
+9.07087: Node ID: 71  Start sending packet
+9.07131: Node ID: 29  Start sending packet
+9.07166: Node ID: 29  Start sending packet
+9.0721: Node ID: 64  Start sending packet
+9.21198: Node ID: 12  Start sending packet
+9.21242: Node ID: 48  Start sending packet
+9.21277: Node ID: 48  Start sending packet
+9.21321: Node ID: 34  Start sending packet
+9.21356: Node ID: 34  Start sending packet
+9.21393: Node ID: 44  Start sending packet
+9.21399: Node ID: 48  Start sending packet
+9.21477: Node ID: 48  Start sending packet
+9.21501: Node ID: 44  Start sending packet
+9.2152: Node ID: 12  Start sending packet
+9.2181: Node ID: 44  Start sending packet
+9.21854: Node ID: 68  Start sending packet
+9.21889: Node ID: 68  Start sending packet
+9.21933: Node ID: 44  Start sending packet
+9.25608: Node ID: 99  Start sending packet
+9.25652: Node ID: 53  Start sending packet
+9.25687: Node ID: 53  Start sending packet
+9.2573: Node ID: 79  Start sending packet
+9.25766: Node ID: 79  Start sending packet
+9.25809: Node ID: 53  Start sending packet
+9.25905: Node ID: 53  Start sending packet
+9.25948: Node ID: 99  Start sending packet
+9.36387: Node ID: 62  Start sending packet
+9.36431: Node ID: 67  Start sending packet
+9.36466: Node ID: 67  Start sending packet
+9.3651: Node ID: 6  Start sending packet
+9.36545: Node ID: 6  Start sending packet
+9.36589: Node ID: 67  Start sending packet
+9.3665: Node ID: 67  Start sending packet
+9.36694: Node ID: 62  Start sending packet
+9.37244: Node ID: 30  Start sending packet
+9.37269: Node ID: 44  Start sending packet
+9.37932: Node ID: 30  Start sending packet
+9.37961: Node ID: 67  Start sending packet
+9.37986: Node ID: 30  Start sending packet
+9.38079: Node ID: 30  Start sending packet
+9.38106: Node ID: 67  Start sending packet
+9.38141: Node ID: 67  Start sending packet
+9.38167: Node ID: 62  Start sending packet
+9.38182: Node ID: 26  Start sending packet
+9.38226: Node ID: 48  Start sending packet
+9.38261: Node ID: 48  Start sending packet
+9.38305: Node ID: 34  Start sending packet
+9.3834: Node ID: 34  Start sending packet
+9.38384: Node ID: 38  Start sending packet
+9.38419: Node ID: 38  Start sending packet
+9.38463: Node ID: 68  Start sending packet
+9.38498: Node ID: 68  Start sending packet
+9.38541: Node ID: 26  Start sending packet
+9.38653: Node ID: 37  Start sending packet
+9.38696: Node ID: 90  Start sending packet
+9.38731: Node ID: 90  Start sending packet
+9.38775: Node ID: 42  Start sending packet
+9.3881: Node ID: 42  Start sending packet
+9.38854: Node ID: 22  Start sending packet
+9.38889: Node ID: 22  Start sending packet
+9.38933: Node ID: 1  Start sending packet
+9.38968: Node ID: 1  Start sending packet
+9.39012: Node ID: 64  Start sending packet
+9.39047: Node ID: 64  Start sending packet
+9.39091: Node ID: 1  Start sending packet
+9.39158: Node ID: 1  Start sending packet
+9.39201: Node ID: 22  Start sending packet
+9.39237: Node ID: 22  Start sending packet
+9.3928: Node ID: 42  Start sending packet
+9.39316: Node ID: 42  Start sending packet
+9.39359: Node ID: 90  Start sending packet
+9.39395: Node ID: 90  Start sending packet
+9.39438: Node ID: 37  Start sending packet
+9.41515: Node ID: 7  Start sending packet
+9.41558: Node ID: 96  Start sending packet
+9.41593: Node ID: 96  Start sending packet
+9.41637: Node ID: 7  Start sending packet
+9.46582: Node ID: 69  Start sending packet
+9.46625: Node ID: 32  Start sending packet
+9.46661: Node ID: 32  Start sending packet
+9.46704: Node ID: 69  Start sending packet
+9.46724: Node ID: 33  Start sending packet
+9.46768: Node ID: 89  Start sending packet
+9.46803: Node ID: 89  Start sending packet
+9.46847: Node ID: 13  Start sending packet
+9.46882: Node ID: 13  Start sending packet
+9.46926: Node ID: 89  Start sending packet
+9.47015: Node ID: 89  Start sending packet
+9.47059: Node ID: 33  Start sending packet
+9.56614: Node ID: 64  Start sending packet
+9.56657: Node ID: 63  Start sending packet
+9.56693: Node ID: 63  Start sending packet
+9.56736: Node ID: 95  Start sending packet
+9.56772: Node ID: 95  Start sending packet
+9.56815: Node ID: 97  Start sending packet
+9.5685: Node ID: 97  Start sending packet
+9.56894: Node ID: 87  Start sending packet
+9.56929: Node ID: 87  Start sending packet
+9.56973: Node ID: 5  Start sending packet
+9.57008: Node ID: 5  Start sending packet
+9.57052: Node ID: 71  Start sending packet
+9.57087: Node ID: 71  Start sending packet
+9.57131: Node ID: 29  Start sending packet
+9.57166: Node ID: 29  Start sending packet
+9.5721: Node ID: 64  Start sending packet
+9.71198: Node ID: 12  Start sending packet
+9.71242: Node ID: 48  Start sending packet
+9.71277: Node ID: 48  Start sending packet
+9.71321: Node ID: 34  Start sending packet
+9.71356: Node ID: 34  Start sending packet
+9.71393: Node ID: 44  Start sending packet
+9.71399: Node ID: 48  Start sending packet
+9.71445: Node ID: 48  Start sending packet
+9.71488: Node ID: 12  Start sending packet
+9.71587: Node ID: 44  Start sending packet
+9.7163: Node ID: 68  Start sending packet
+9.71666: Node ID: 68  Start sending packet
+9.71709: Node ID: 44  Start sending packet
+9.75608: Node ID: 99  Start sending packet
+9.75652: Node ID: 53  Start sending packet
+9.75687: Node ID: 53  Start sending packet
+9.7573: Node ID: 79  Start sending packet
+9.75766: Node ID: 79  Start sending packet
+9.75809: Node ID: 53  Start sending packet
+9.75849: Node ID: 53  Start sending packet
+9.75892: Node ID: 99  Start sending packet
+9.86387: Node ID: 62  Start sending packet
+9.86431: Node ID: 67  Start sending packet
+9.86466: Node ID: 67  Start sending packet
+9.8651: Node ID: 6  Start sending packet
+9.86545: Node ID: 6  Start sending packet
+9.86589: Node ID: 67  Start sending packet
+9.86678: Node ID: 67  Start sending packet
+9.86722: Node ID: 62  Start sending packet
+9.88182: Node ID: 26  Start sending packet
+9.88226: Node ID: 48  Start sending packet
+9.88261: Node ID: 48  Start sending packet
+9.88305: Node ID: 34  Start sending packet
+9.8834: Node ID: 34  Start sending packet
+9.88384: Node ID: 38  Start sending packet
+9.88419: Node ID: 38  Start sending packet
+9.88463: Node ID: 68  Start sending packet
+9.88498: Node ID: 68  Start sending packet
+9.88541: Node ID: 26  Start sending packet
+9.88653: Node ID: 37  Start sending packet
+9.88696: Node ID: 90  Start sending packet
+9.88731: Node ID: 90  Start sending packet
+9.88775: Node ID: 42  Start sending packet
+9.8881: Node ID: 42  Start sending packet
+9.88854: Node ID: 22  Start sending packet
+9.88889: Node ID: 22  Start sending packet
+9.88933: Node ID: 1  Start sending packet
+9.88968: Node ID: 1  Start sending packet
+9.89012: Node ID: 64  Start sending packet
+9.89047: Node ID: 64  Start sending packet
+9.89091: Node ID: 1  Start sending packet
+9.89166: Node ID: 1  Start sending packet
+9.89209: Node ID: 22  Start sending packet
+9.89245: Node ID: 22  Start sending packet
+9.89288: Node ID: 42  Start sending packet
+9.89324: Node ID: 42  Start sending packet
+9.89367: Node ID: 90  Start sending packet
+9.89403: Node ID: 90  Start sending packet
+9.89446: Node ID: 37  Start sending packet
+9.91515: Node ID: 7  Start sending packet
+9.91558: Node ID: 96  Start sending packet
+9.91593: Node ID: 96  Start sending packet
+9.91637: Node ID: 7  Start sending packet
+9.96582: Node ID: 69  Start sending packet
+9.96625: Node ID: 32  Start sending packet
+9.96661: Node ID: 32  Start sending packet
+9.96704: Node ID: 69  Start sending packet
+9.96724: Node ID: 33  Start sending packet
+9.96768: Node ID: 89  Start sending packet
+9.96803: Node ID: 89  Start sending packet
+9.96847: Node ID: 13  Start sending packet
+9.96882: Node ID: 13  Start sending packet
+9.96926: Node ID: 89  Start sending packet
+9.97003: Node ID: 89  Start sending packet
+9.97047: Node ID: 33  Start sending packet
+%INFO: TimeStamp: 10 segs Node: ID: 0   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 1   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 2   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 3   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 4   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 5   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 6   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 7   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 8   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 9   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 10   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 11   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 12   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 13   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 14   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 15   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 16   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 17   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 18   Current Remaining energy = 91.81 Joules
+%INFO: TOTALTEMPENERGYFRACTION 92.4652
+%INFO: TOTALDEVICES 100
+%INFO: TimeStamp: 10 segs Node: ID: 19   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 20   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 21   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 22   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 23   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 24   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 25   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 26   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 27   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 28   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 29   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 30   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 31   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 32   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 33   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 34   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 35   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 36   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 37   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 38   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 39   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 40   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 41   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 42   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 43   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 44   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 45   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 46   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 47   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 48   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 49   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 50   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 51   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 52   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 53   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 54   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 55   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 56   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 57   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 58   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 59   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 60   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 61   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 62   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 63   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 64   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 65   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 66   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 67   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 68   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 69   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 70   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 71   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 72   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 73   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 74   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 75   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 76   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 77   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 78   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 79   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 80   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 81   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 82   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 83   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 84   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 85   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 86   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 87   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 88   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 89   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 90   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 91   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 92   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 93   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 94   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 95   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 96   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 97   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 98   Current Remaining energy = 91.81 Joules
+%INFO: TimeStamp: 10 segs Node: ID: 99   Current Remaining energy = 91.81 Joules
+10.0661: Node ID: 64  Start sending packet
+10.0666: Node ID: 63  Start sending packet
+10.0669: Node ID: 63  Start sending packet
+10.0674: Node ID: 95  Start sending packet
+10.0677: Node ID: 95  Start sending packet
+10.0682: Node ID: 97  Start sending packet
+10.0685: Node ID: 97  Start sending packet
+10.0689: Node ID: 87  Start sending packet
+10.0693: Node ID: 87  Start sending packet
+10.0697: Node ID: 5  Start sending packet
+10.0701: Node ID: 5  Start sending packet
+10.0705: Node ID: 71  Start sending packet
+10.0709: Node ID: 71  Start sending packet
+10.0713: Node ID: 29  Start sending packet
+10.0717: Node ID: 29  Start sending packet
+10.0721: Node ID: 64  Start sending packet
+10.212: Node ID: 12  Start sending packet
+10.2124: Node ID: 48  Start sending packet
+10.2128: Node ID: 48  Start sending packet
+10.2132: Node ID: 34  Start sending packet
+10.2136: Node ID: 34  Start sending packet
+10.2139: Node ID: 44  Start sending packet
+10.214: Node ID: 48  Start sending packet
+10.2144: Node ID: 48  Start sending packet
+10.2149: Node ID: 12  Start sending packet
+10.2159: Node ID: 44  Start sending packet
+10.2163: Node ID: 68  Start sending packet
+10.2167: Node ID: 68  Start sending packet
+10.2171: Node ID: 44  Start sending packet
+10.2561: Node ID: 99  Start sending packet
+10.2565: Node ID: 53  Start sending packet
+10.2569: Node ID: 53  Start sending packet
+10.2573: Node ID: 79  Start sending packet
+10.2577: Node ID: 79  Start sending packet
+10.2581: Node ID: 53  Start sending packet
+10.2587: Node ID: 53  Start sending packet
+10.2591: Node ID: 99  Start sending packet
+10.3639: Node ID: 62  Start sending packet
+10.3643: Node ID: 67  Start sending packet
+10.3647: Node ID: 67  Start sending packet
+10.3651: Node ID: 6  Start sending packet
+10.3655: Node ID: 6  Start sending packet
+10.3659: Node ID: 67  Start sending packet
+10.3664: Node ID: 67  Start sending packet
+10.3669: Node ID: 62  Start sending packet
+10.3818: Node ID: 26  Start sending packet
+10.3823: Node ID: 48  Start sending packet
+10.3826: Node ID: 48  Start sending packet
+10.383: Node ID: 34  Start sending packet
+10.3834: Node ID: 34  Start sending packet
+10.3838: Node ID: 38  Start sending packet
+10.3842: Node ID: 38  Start sending packet
+10.3846: Node ID: 68  Start sending packet
+10.385: Node ID: 68  Start sending packet
+10.3854: Node ID: 26  Start sending packet
+10.3865: Node ID: 37  Start sending packet
+10.387: Node ID: 90  Start sending packet
+10.3873: Node ID: 90  Start sending packet
+10.3877: Node ID: 42  Start sending packet
+10.3881: Node ID: 42  Start sending packet
+10.3885: Node ID: 22  Start sending packet
+10.3889: Node ID: 22  Start sending packet
+10.3893: Node ID: 1  Start sending packet
+10.3897: Node ID: 1  Start sending packet
+10.3901: Node ID: 64  Start sending packet
+10.3905: Node ID: 64  Start sending packet
+10.3909: Node ID: 1  Start sending packet
+10.3914: Node ID: 1  Start sending packet
+10.3918: Node ID: 22  Start sending packet
+10.3921: Node ID: 22  Start sending packet
+10.3926: Node ID: 42  Start sending packet
+10.3929: Node ID: 42  Start sending packet
+10.3934: Node ID: 90  Start sending packet
+10.3937: Node ID: 90  Start sending packet
+10.3942: Node ID: 37  Start sending packet
+10.4151: Node ID: 7  Start sending packet
+10.4156: Node ID: 96  Start sending packet
+10.4159: Node ID: 96  Start sending packet
+10.4164: Node ID: 7  Start sending packet
+10.4658: Node ID: 69  Start sending packet
+10.4663: Node ID: 32  Start sending packet
+10.4666: Node ID: 32  Start sending packet
+10.467: Node ID: 69  Start sending packet
+10.4672: Node ID: 33  Start sending packet
+10.4677: Node ID: 89  Start sending packet
+10.468: Node ID: 89  Start sending packet
+10.4685: Node ID: 13  Start sending packet
+10.4688: Node ID: 13  Start sending packet
+10.4693: Node ID: 89  Start sending packet
+10.4702: Node ID: 89  Start sending packet
+10.4706: Node ID: 33  Start sending packet
+10.5661: Node ID: 64  Start sending packet
+10.5666: Node ID: 63  Start sending packet
+10.5669: Node ID: 63  Start sending packet
+10.5674: Node ID: 95  Start sending packet
+10.5677: Node ID: 95  Start sending packet
+10.5682: Node ID: 97  Start sending packet
+10.5685: Node ID: 97  Start sending packet
+10.5689: Node ID: 87  Start sending packet
+10.5693: Node ID: 87  Start sending packet
+10.5697: Node ID: 5  Start sending packet
+10.5701: Node ID: 5  Start sending packet
+10.5705: Node ID: 71  Start sending packet
+10.5709: Node ID: 71  Start sending packet
+10.5713: Node ID: 29  Start sending packet
+10.5717: Node ID: 29  Start sending packet
+10.5721: Node ID: 64  Start sending packet
+10.712: Node ID: 12  Start sending packet
+10.7124: Node ID: 48  Start sending packet
+10.7128: Node ID: 48  Start sending packet
+10.7132: Node ID: 34  Start sending packet
+10.7136: Node ID: 34  Start sending packet
+10.7139: Node ID: 44  Start sending packet
+10.714: Node ID: 48  Start sending packet
+10.7144: Node ID: 48  Start sending packet
+10.7149: Node ID: 12  Start sending packet
+10.7152: Node ID: 44  Start sending packet
+10.7157: Node ID: 68  Start sending packet
+10.716: Node ID: 68  Start sending packet
+10.7165: Node ID: 44  Start sending packet
+10.7561: Node ID: 99  Start sending packet
+10.7565: Node ID: 53  Start sending packet
+10.7569: Node ID: 53  Start sending packet
+10.7573: Node ID: 79  Start sending packet
+10.7577: Node ID: 79  Start sending packet
+10.7581: Node ID: 53  Start sending packet
+10.759: Node ID: 53  Start sending packet
+10.7594: Node ID: 99  Start sending packet
+10.8639: Node ID: 62  Start sending packet
+10.8643: Node ID: 67  Start sending packet
+10.8647: Node ID: 67  Start sending packet
+10.8651: Node ID: 6  Start sending packet
+10.8655: Node ID: 6  Start sending packet
+10.8659: Node ID: 67  Start sending packet
+10.8666: Node ID: 67  Start sending packet
+10.867: Node ID: 62  Start sending packet
+10.8803: Node ID: 12  Start sending packet
+10.8818: Node ID: 26  Start sending packet
+10.8823: Node ID: 48  Start sending packet
+10.8826: Node ID: 48  Start sending packet
+10.883: Node ID: 34  Start sending packet
+10.8834: Node ID: 34  Start sending packet
+10.8838: Node ID: 38  Start sending packet
+10.8842: Node ID: 38  Start sending packet
+10.8846: Node ID: 68  Start sending packet
+10.885: Node ID: 68  Start sending packet
+10.8854: Node ID: 26  Start sending packet
+10.8865: Node ID: 37  Start sending packet
+10.887: Node ID: 90  Start sending packet
+10.8873: Node ID: 90  Start sending packet
+10.8877: Node ID: 42  Start sending packet
+10.8881: Node ID: 42  Start sending packet
+10.8885: Node ID: 22  Start sending packet
+10.8889: Node ID: 22  Start sending packet
+10.8893: Node ID: 1  Start sending packet
+10.8897: Node ID: 1  Start sending packet
+10.8901: Node ID: 64  Start sending packet
+10.8905: Node ID: 64  Start sending packet
+10.8906: Node ID: 30  Start sending packet
+10.8908: Node ID: 67  Start sending packet
+10.8915: Node ID: 59  Start sending packet
+10.8918: Node ID: 62  Start sending packet
+10.8921: Node ID: 64  Start sending packet
+10.8926: Node ID: 1  Start sending packet
+10.8929: Node ID: 1  Start sending packet
+10.8934: Node ID: 22  Start sending packet
+10.8937: Node ID: 22  Start sending packet
+10.8942: Node ID: 42  Start sending packet
+10.8945: Node ID: 42  Start sending packet
+10.8949: Node ID: 90  Start sending packet
+10.8953: Node ID: 90  Start sending packet
+10.8957: Node ID: 37  Start sending packet
+10.9151: Node ID: 7  Start sending packet
+10.9156: Node ID: 96  Start sending packet
+10.9159: Node ID: 96  Start sending packet
+10.9164: Node ID: 7  Start sending packet
+10.9658: Node ID: 69  Start sending packet
+10.9663: Node ID: 32  Start sending packet
+10.9666: Node ID: 32  Start sending packet
+10.967: Node ID: 69  Start sending packet
+10.9672: Node ID: 33  Start sending packet
+10.9677: Node ID: 89  Start sending packet
+10.968: Node ID: 89  Start sending packet
+10.9685: Node ID: 13  Start sending packet
+10.9688: Node ID: 13  Start sending packet
+10.9693: Node ID: 89  Start sending packet
+10.97: Node ID: 89  Start sending packet
+10.9704: Node ID: 33  Start sending packet
+10.9784: Node ID: 59  Start sending packet
+10.9787: Node ID: 21  Start sending packet
+10.9787: Node ID: 6  Start sending packet
+10.9787: Node ID: 12  Start sending packet
+10.9787: Node ID: 62  Start sending packet
+10.9795: Node ID: 12  Start sending packet
+10.9797: Node ID: 59  Start sending packet
+10.9803: Node ID: 12  Start sending packet
+10.9804: Node ID: 62  Start sending packet
+10.9805: Node ID: 30  Start sending packet
+10.981: Node ID: 59  Start sending packet
+10.9812: Node ID: 12  Start sending packet
+10.9816: Node ID: 17  Start sending packet
+10.9817: Node ID: 63  Start sending packet
+10.9819: Node ID: 48  Start sending packet
+10.9823: Node ID: 6  Start sending packet
+10.9826: Node ID: 67  Start sending packet
+10.9829: Node ID: 38  Start sending packet
+10.983: Node ID: 67  Start sending packet
+10.9832: Node ID: 62  Start sending packet
+10.9833: Node ID: 68  Start sending packet
+10.9836: Node ID: 76  Start sending packet
+10.9836: Node ID: 11  Start sending packet
+10.9842: Node ID: 82  Start sending packet
+10.9844: Node ID: 30  Start sending packet
+10.9846: Node ID: 41  Start sending packet
+10.9847: Node ID: 12  Start sending packet
+10.9849: Node ID: 29  Start sending packet
+10.9849: Node ID: 62  Start sending packet
+10.9852: Node ID: 64  Start sending packet
+10.9854: Node ID: 30  Start sending packet
+10.9855: Node ID: 64  Start sending packet
+10.9856: Node ID: 12  Start sending packet
+10.9858: Node ID: 63  Start sending packet
+10.9859: Node ID: 3  Start sending packet
+10.9862: Node ID: 15  Start sending packet
+10.9862: Node ID: 96  Start sending packet
+10.9862: Node ID: 6  Start sending packet
+10.9866: Node ID: 59  Start sending packet
+10.9868: Node ID: 6  Start sending packet
+10.9869: Node ID: 71  Start sending packet
+10.9869: Node ID: 84  Start sending packet
+10.9872: Node ID: 5  Start sending packet
+10.9873: Node ID: 75  Start sending packet
+10.9874: Node ID: 1  Start sending packet
+10.9878: Node ID: 77  Start sending packet
+10.9878: Node ID: 26  Start sending packet
+10.9878: Node ID: 67  Start sending packet
+10.9879: Node ID: 20  Start sending packet
+10.9881: Node ID: 31  Start sending packet
+10.9881: Node ID: 44  Start sending packet
+10.9881: Node ID: 55  Start sending packet
+10.9881: Node ID: 13  Start sending packet
+10.9881: Node ID: 57  Start sending packet
+10.9882: Node ID: 34  Start sending packet
+10.9882: Node ID: 72  Start sending packet
+10.9884: Node ID: 43  Start sending packet
+10.9884: Node ID: 78  Start sending packet
+10.9885: Node ID: 35  Start sending packet
+10.9885: Node ID: 70  Start sending packet
+10.9888: Node ID: 60  Start sending packet
+10.9888: Node ID: 63  Start sending packet
+10.9888: Node ID: 22  Start sending packet
+10.9889: Node ID: 99  Start sending packet
+10.9891: Node ID: 12  Start sending packet
+10.9891: Node ID: 36  Start sending packet
+10.9892: Node ID: 91  Start sending packet
+10.9894: Node ID: 79  Start sending packet
+10.9897: Node ID: 93  Start sending packet
+10.9898: Node ID: 5  Start sending packet
+10.9899: Node ID: 10  Start sending packet
+10.9899: Node ID: 29  Start sending packet
+10.9899: Node ID: 61  Start sending packet
+10.9901: Node ID: 90  Start sending packet
+10.9902: Node ID: 9  Start sending packet
+10.9903: Node ID: 6  Start sending packet
+10.9904: Node ID: 85  Start sending packet
+10.9904: Node ID: 86  Start sending packet
+10.9905: Node ID: 0  Start sending packet
+10.9906: Node ID: 59  Start sending packet
+10.9909: Node ID: 7  Start sending packet
+10.9909: Node ID: 24  Start sending packet
+10.991: Node ID: 30  Start sending packet
+10.9911: Node ID: 87  Start sending packet
+10.9913: Node ID: 31  Start sending packet
+10.9913: Node ID: 76  Start sending packet
+10.9915: Node ID: 95  Start sending packet
+10.9919: Node ID: 6  Start sending packet
+10.9921: Node ID: 16  Start sending packet
+10.9921: Node ID: 69  Start sending packet
+10.9921: Node ID: 73  Start sending packet
+10.9926: Node ID: 31  Start sending packet
+10.9926: Node ID: 12  Start sending packet
+10.9927: Node ID: 58  Start sending packet
+10.9929: Node ID: 81  Start sending packet
+10.993: Node ID: 40  Start sending packet
+10.993: Node ID: 54  Start sending packet
+10.9931: Node ID: 32  Start sending packet
+10.9931: Node ID: 14  Start sending packet
+10.9932: Node ID: 26  Start sending packet
+10.9934: Node ID: 47  Start sending packet
+10.9935: Node ID: 5  Start sending packet
+10.9936: Node ID: 27  Start sending packet
+10.9938: Node ID: 71  Start sending packet
+10.9938: Node ID: 62  Start sending packet
+10.9941: Node ID: 46  Start sending packet
+10.9941: Node ID: 59  Start sending packet
+10.9943: Node ID: 53  Start sending packet
+10.9943: Node ID: 88  Start sending packet
+10.9944: Node ID: 33  Start sending packet
+10.9946: Node ID: 76  Start sending packet
+10.9946: Node ID: 17  Start sending packet
+10.9946: Node ID: 42  Start sending packet
+10.9949: Node ID: 83  Start sending packet
+10.9951: Node ID: 97  Start sending packet
+10.9951: Node ID: 44  Start sending packet
+10.9951: Node ID: 65  Start sending packet
+10.9951: Node ID: 23  Start sending packet
+10.9952: Node ID: 52  Start sending packet
+10.9954: Node ID: 61  Start sending packet
+10.9956: Node ID: 19  Start sending packet
+10.9957: Node ID: 92  Start sending packet
+10.9957: Node ID: 49  Start sending packet
+10.9958: Node ID: 7  Start sending packet
+10.996: Node ID: 21  Start sending packet
+10.9961: Node ID: 50  Start sending packet
+10.9961: Node ID: 37  Start sending packet
+10.9961: Node ID: 96  Start sending packet
+10.9961: Node ID: 82  Start sending packet
+10.9963: Node ID: 6  Start sending packet
+10.9963: Node ID: 91  Start sending packet
+10.9964: Node ID: 5  Start sending packet
+10.9964: Node ID: 56  Start sending packet
+10.9966: Node ID: 98  Start sending packet
+10.9967: Node ID: 20  Start sending packet
+10.9967: Node ID: 60  Start sending packet
+10.9968: Node ID: 11  Start sending packet
+10.9969: Node ID: 5  Start sending packet
+10.997: Node ID: 91  Start sending packet
+10.9971: Node ID: 38  Start sending packet
+10.9971: Node ID: 30  Start sending packet
+10.9973: Node ID: 89  Start sending packet
+10.9973: Node ID: 80  Start sending packet
+10.9974: Node ID: 7  Start sending packet
+10.9974: Node ID: 42  Start sending packet
+10.9975: Node ID: 74  Start sending packet
+10.9976: Node ID: 38  Start sending packet
+10.9976: Node ID: 63  Start sending packet
+10.9976: Node ID: 29  Start sending packet
+10.9977: Node ID: 5  Start sending packet
+10.9979: Node ID: 30  Start sending packet
+10.9979: Node ID: 39  Start sending packet
+10.9979: Node ID: 52  Start sending packet
+10.9981: Node ID: 34  Start sending packet
+10.9981: Node ID: 16  Start sending packet
+10.9982: Node ID: 22  Start sending packet
+10.9983: Node ID: 30  Start sending packet
+10.9983: Node ID: 11  Start sending packet
+10.9983: Node ID: 40  Start sending packet
+10.9984: Node ID: 47  Start sending packet
+10.9984: Node ID: 25  Start sending packet
+10.9987: Node ID: 73  Start sending packet
+10.9988: Node ID: 99  Start sending packet
+10.999: Node ID: 59  Start sending packet
+10.999: Node ID: 96  Start sending packet
+10.999: Node ID: 2  Start sending packet
+10.999: Node ID: 50  Start sending packet
+10.9991: Node ID: 28  Start sending packet
+10.9992: Node ID: 69  Start sending packet
+10.9993: Node ID: 43  Start sending packet
+10.9995: Node ID: 19  Start sending packet
+10.9995: Node ID: 8  Start sending packet
+10.9995: Node ID: 54  Start sending packet
+10.9996: Node ID: 41  Start sending packet
+10.9996: Node ID: 78  Start sending packet
+10.9997: Node ID: 38  Start sending packet
+10.9997: Node ID: 5  Start sending packet
+10.9997: Node ID: 30  Start sending packet
+10.9999: Node ID: 7  Start sending packet
