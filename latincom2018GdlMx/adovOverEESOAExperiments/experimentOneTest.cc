@@ -54,7 +54,7 @@ uint32_t type[4];
 #define distance 12.0
 #define percentage 5.0
 #define percentageComp numOfNodesDouble*percentage/100
-#define simTime 20
+#define simTime 61
 #define percentageOfNodesTx 10
 #define numOfNodesTx (uint32_t) numOfNodes*percentageOfNodesTx/100
 #define nodesDeltaSeparation 4.0
@@ -431,6 +431,3 @@ int main (int argc, char *argv[])
   Simulator::Destroy ();
   return 0;
 }
-
-
-	
