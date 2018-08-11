@@ -28,3 +28,5 @@ rtt min/avg/max/mdev = 2/19.41/1050/102.3 ms
 --- 10.0.0.5 ping statistics ---
 188 packets transmitted, 181 received, 3% packet loss, time 50597ms
 rtt min/avg/max/mdev = 2/33.63/2082/233.5 ms
+
+ 
