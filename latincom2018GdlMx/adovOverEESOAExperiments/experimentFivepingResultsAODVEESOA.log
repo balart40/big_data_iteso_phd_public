@@ -1,0 +1,30 @@
+--- 10.0.0.68 ping statistics ---
+187 packets transmitted, 157 received, 16% packet loss, time 50327ms
+rtt min/avg/max/mdev = 6/8.408/22/2.79 ms
+--- 10.0.0.42 ping statistics ---
+189 packets transmitted, 187 received, 1% packet loss, time 50892ms
+rtt min/avg/max/mdev = 5/17.37/1028/93.78 ms
+--- 10.0.0.89 ping statistics ---
+186 packets transmitted, 155 received, 16% packet loss, time 50008ms
+rtt min/avg/max/mdev = 10/12.74/35/3.064 ms
+--- 10.0.0.10 ping statistics ---
+187 packets transmitted, 182 received, 2% packet loss, time 50297ms
+rtt min/avg/max/mdev = 5/20.76/1092/108.3 ms
+--- 10.0.0.22 ping statistics ---
+189 packets transmitted, 176 received, 6% packet loss, time 50889ms
+rtt min/avg/max/mdev = 6/73.43/3892/470 ms
+--- 10.0.0.63 ping statistics ---
+186 packets transmitted, 159 received, 14% packet loss, time 50199ms
+rtt min/avg/max/mdev = 4/7.648/341/27.28 ms
+--- 10.0.0.54 ping statistics ---
+189 packets transmitted, 184 received, 2% packet loss, time 50944ms
+rtt min/avg/max/mdev = 9/24.8/1104/108.5 ms
+--- 10.0.0.40 ping statistics ---
+188 packets transmitted, 187 received, 0% packet loss, time 50752ms
+rtt min/avg/max/mdev = 5/7.909/79/5.655 ms
+--- 10.0.0.42 ping statistics ---
+188 packets transmitted, 182 received, 3% packet loss, time 50525ms
+rtt min/avg/max/mdev = 4/11.16/950/70.07 ms
+--- 10.0.0.79 ping statistics ---
+186 packets transmitted, 184 received, 1% packet loss, time 50177ms
+rtt min/avg/max/mdev = 4/5.897/48/5.182 ms
